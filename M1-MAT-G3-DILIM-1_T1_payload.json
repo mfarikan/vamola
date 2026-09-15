@@ -1,0 +1,805 @@
+{
+  "kapsam": {
+    "program": "TYMM-2024 ilkokul-3 Matematik · TEMA-1 'Sayılar Ve Nicelikler (1)' — DİLİM-1 (8/8-çıktı)",
+    "zemin": "K500 TYMM-PROGRAM-KAZANIMLAR_K500_2026-09-06.json (dersId: 2, sinif: 3, uniteId: 249) + P1-02 Kapsam Kilidi v1.1",
+    "not": "M1-MAT-G3-DILIM-1: P1-02 3. sınıf yetişkin-yönerge katmanı TAM (8 nesne · 7-adım · 32 P12)."
+  },
+  "moduller": [
+    {
+      "id": "M1-MAT-G3-DILIM-1",
+      "tur": "modul-etkinligi",
+      "format": "vmpak-icerik/0.2",
+      "kayit": "P1-02-DILIM-1 (MAT-G3-T1)",
+      "nesneler": [
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-MAT-G3-1-MAT311",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "MAT.3.1.1",
+          "kazanim_metni": "Niceliklerin büyüklüklerine karşılık gelen 1000’e kadar olan sayıların temsillerinden yararlanabilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "1000'e kadar olan üç basamaklı sayıların basamak blokları ve sayı doğrusu temsilleri (T1: Sayılar ve Nicelikler 1)",
+          "etkinlik_adi": "Binlik Şatosu: Bloklarla Üç Basamaklı Sayı Temsili",
+          "amac": "Öğrencinin 1000'e kadar olan doğal sayıları yüzlük taban blokları, onluk çubuklar ve birlik küplerle modelleyerek sayı doğrusu üzerindeki konumunu belirlemesi ve sayı sembolleriyle ilişkilendirmesi amaçlanır.",
+          "strateji": {
+            "deger": "somuttan-soyuta-temsil",
+            "ikincil": "taban-bloklari-ve-sayi-dogrusu-eslemesi"
+          },
+          "destekleyiciler": [
+            "gorsel-blok-seti",
+            "sayi-dogrusu-seridi",
+            "somut-nesneler"
+          ],
+          "d9_varyant": "s",
+          "d9_sema": "D9-doc §8.2 · Bütün-Parça Sayı Temsil Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Matematik (MAT.3.1.1 · Tema 1: Sayılar Ve Nicelikler 1)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:2, sinif:3, uniteId:249, kod:MAT.3.1.1",
+            "tymm_cerceve": "MAB3. Matematiksel Temsil"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Yüzlük bloklar, onluk çubuklar ve birlik küpler çalışma masasına yerleştirilir; öğrenciyle birlikte her bir modelin nicelik değeri incelenir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Problemi çözmek için yüzlük, onluk ve birlik parçaları hangi sırayla bir araya getireceğimizi planlayalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: 3 yüzlük (300), 4 onluk (40) ve 7 birlik (7) yan yana getirilerek 347 sayısı somut olarak inşa edilir.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Oluşturulan blok bütününü sayarak kontrol et: 300 + 40 + 7 toplamı gerçekten hedef sayıyı veriyor mu?",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: 347 sayısını 300-400 arasındaki sayı doğrusunda işaretleyerek 350 ortasına yakınlığını görselleştir.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Benzer şekilde 5 yüzlük, 2 onluk ve 9 birlik küpten oluşan yeni bir sayı için temsil planı hazırla.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Sayının büyüklüğü ile kullandığımız blok miktarı arasındaki ilişkiyi tek cümleyle özetle.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Ali ve Zeynep 'Binlik Şatosu' inşa oyununda 3 adet yüzlük blok tabakası, 4 adet onluk çubuk ve 7 adet birlik küp kullandılar. Bu yapıda kullanılan toplam küp sayısını belirleyiniz ve bu sayıyı sayı doğrusunda 300 ile 400 arasında gösteriniz.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, üç basamaklı sayı temsil etkinliği"
+          },
+          "ogrenci_kayit": {
+            "secilen_bloklar": [
+              "3-yuzluk",
+              "4-onluk",
+              "7-birlik"
+            ],
+            "sayi_degeri": 347
+          },
+          "rozet": {
+            "tur": "sayi-mimari",
+            "gerekce": "1000'e kadar olan sayıları blok ve sayı doğrusu modelleriyle eksiksiz temsil etti."
+          },
+          "farklilastirma": {
+            "destek": "Öğrenciye 100'e kadar olan iki basamaklı blok modeli hatırlatılır; ardından yüzlük tabaka eklenir.",
+            "zenginlestirme": "Öğrenciden 800'e kadar olan sayıları en az sayıda blok kullanarak oluşturması istenir."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "'Blokları birlikte sayıp inceleyelim' — K-02 uyumlu, cesaretlendirici pedagojik dil",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-MAT-G3-2-MAT312",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "MAT.3.1.2",
+          "kazanim_metni": "1000’e kadar olan sayıları çözümleyebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Üç basamaklı sayıların basamak adları ve basamak değerleri ilişkisi (T1: Sayılar ve Nicelikler 1)",
+          "etkinlik_adi": "Sayı Çözümleme Atölyesi: Basamak Değerleri Terazisi",
+          "amac": "Öğrencinin üç basamaklı sayılarda yer alan rakamların basamak adlarını (yüzler, onlar, birler) belirlemesi, basamak değeri ile sayı değeri arasındaki farkı kavraması ve sayıyı basamak değerleri toplamı olarak çözümlemesi amaçlanır.",
+          "strateji": {
+            "deger": "ayristirma-ve-cozumleme",
+            "ikincil": "basamak-tablosu-ve-deger-terazisi"
+          },
+          "destekleyiciler": [
+            "basamak-tablosu",
+            "sayi-kartlari",
+            "abakus-temsili"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.1 · Basamak Ayrıştırma ve Değer Eşleme Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Matematik (MAT.3.1.2 · Tema 1: Sayılar Ve Nicelikler 1)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:2, sinif:3, uniteId:249, kod:MAT.3.1.2",
+            "tymm_cerceve": "KB2.13. Yapılandırma"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "658 sayısı basamak tablosuna yazılır: Yüzler basamağında 6, onlar basamağında 5, birler basamağında 8 gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Her basamaktaki rakamın gerçek nicelik değerini bulmak için basamak katsayılarıyla eşleme planı kuralım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: 6 tane 100'lük = 600, 5 tane 10'luk = 50, 8 tane 1'lik = 8 olarak basamak değerleri hesaplanır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Çözümleme toplamını denetle: 600 + 50 + 8 = 658 eşitliği başlangıçtaki sayıyı tam veriyor mu?",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Onlar basamağındaki 5'in sayı değeri (5) ile basamak değerini (50) karşılaştırarak farkı açıkla.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Basamaklarında sıfır bulunan 704 sayısı için çözümleme adımlarını önceden tasarla.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Bir rakamın sayı değeri ile basamak değeri arasındaki temel farkı kendi sözlerinle açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Bir doğa müzesinde 658 adet kelebek örneği sergilenmektedir. Bu sayıdaki '6', '5' ve '8' rakamlarının hangi basamaklarda bulunduğunu ve her birinin basamak değerini bularak sayıyı çözümlenmiş biçimde yazınız.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, basamak analizi ve çözümleme etkinliği"
+          },
+          "ogrenci_kayit": {
+            "yuzler_basamagi": 600,
+            "onlar_basamagi": 50,
+            "birler_basamagi": 8
+          },
+          "rozet": {
+            "tur": "cozumleme-ustasi",
+            "gerekce": "Üç basamaklı sayıları basamak ve basamak değerlerine eksiksiz ayrıştırdı."
+          },
+          "farklilastirma": {
+            "destek": "Basamak tablosu renkli kartlarla desteklenir (yüzler mavi, onlar sarı, birler kırmızı).",
+            "zenginlestirme": "Verilen karışık basamak değerlerinden (ör. 40 + 700 + 3) sayının kendisini bulma çalışması yapılır."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "'Basamakları adım adım ayrıştıralım' — K-02 uyumlu, cesaretlendirici pedagojik dil",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-MAT-G3-3-MAT313",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "MAT.3.1.3",
+          "kazanim_metni": "Sayıları sıralayabilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "1000'e kadar olan sayıları sıralama, karşılaştırma (<, >) ve en yakın onluğa/yüzlüğe yuvarlama (T1: Sayılar ve Nicelikler 1)",
+          "etkinlik_adi": "Dağ Yolu Parkuru: Sayı Sıralama ve En Yakın Durağa Yuvarlama",
+          "amac": "Öğrencinin üç basamaklı sayıları yüzlük ve onluk basamaklarını inceleyerek karşılaştırması, küçükten büyüğe sıralaması ve sayıları en yakın onluk ile yüzlüğe yuvarlayarak tasnif etmesi amaçlanır.",
+          "strateji": {
+            "deger": "karsilastirma-ve-sirali-tasnif",
+            "ikincil": "en-yakin-onluk-yuzluk-yuvarlama"
+          },
+          "destekleyiciler": [
+            "karsilastirma-kartlari",
+            "yuvarlama-cetveli",
+            "durak-semasi"
+          ],
+          "d9_varyant": "k",
+          "d9_sema": "D9-doc §8.3 · Sayı Karşılaştırma ve Aralık Sınıflama Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Matematik (MAT.3.1.3 · Tema 1: Sayılar Ve Nicelikler 1)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:2, sinif:3, uniteId:249, kod:MAT.3.1.3",
+            "tymm_cerceve": "MAB3.1. Matematiksel Temsillerden Yararlanma"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "438, 483 ve 429 sayıları incelenir; yüzler basamaklarının eşit (4) olduğu görülür ve karşılaştırma için onlar basamağına bakılır.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Sayıları küçükten büyüğe dizerken basamakları sırayla (yüzler → onlar → birler) kontrol etme planını belirleyelim.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Onlar basamağında 2 < 3 < 8 olduğu için 429 < 438 < 483 sıralaması kurulur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Sayı doğrusundaki yerleşim sırasını kontrol et: En soldaki sayı 429, en sağdaki 483 mü?",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: 438 sayısının birler basamağı 8 (≥5) olduğundan en yakın onluğa 440 olarak yuvarlanır; onlar basamağı 3 (<5) olduğundan en yakın yüzlüğe 400 olarak yuvarlanır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Başka üç sayı (672, 627, 679) için sıralama ve yuvarlama adımlarını önceden düzenle.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Bir sayıyı onluğa yuvarlarken birler basamağına, yüzlüğe yuvarlarken onlar basamağına bakma kuralının nedenini değerlendir.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Bir doğa yürüyüşü kulübünün üç rotası 438 m, 483 m ve 429 m uzunluğundadır. Bu rotaları en kısadan en uzuna doğru sıralayınız. Ardından 438 m mesafeyi en yakın onluğa ve en yakın yüzlüğe yuvarlayarak parkurun yaklaşık mesafesini belirleyiniz.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, sıralama ve yuvarlama etkinliği"
+          },
+          "ogrenci_kayit": {
+            "siralanis": [
+              429,
+              438,
+              483
+            ],
+            "en_yakin_onluk": 440,
+            "en_yakin_yuzluk": 400
+          },
+          "rozet": {
+            "tur": "siralama-rehberi",
+            "gerekce": "Üç basamaklı sayıları doğru sıraladı ve en yakın onluk/yüzlüğe başarıyla yuvarladı."
+          },
+          "farklilastirma": {
+            "destek": "Sayı doğrusu üzerinde 10'luk ve 100'lük duraklar işaretlenerek görsel ipucu sağlanır.",
+            "zenginlestirme": "Verilen dört sayıyı hem küçükten büyüğe hem de en yakın yüzlüklerine göre iki farklı grupta sınıflaması istenir."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "'Sayıları sıraya dizip kontrol edelim' — K-02 uyumlu, cesaretlendirici pedagojik dil",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-MAT-G3-4-MAT314",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "MAT.3.1.4",
+          "kazanim_metni": "Sayıları ileriye ve geriye doğru ritmik sayabilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "6'şar, 7'şer, 8'er, 9'ar ile 1000 içinde 10'ar ve 100'er ileri-geri ritmik sayma (T1: Sayılar ve Nicelikler 1)",
+          "etkinlik_adi": "Ritmik Adımlar Labirenti: Sayma Örüntüleri Keşfi",
+          "amac": "Öğrencinin belirtilen sınırlar içinde altışar, yedişer, sekizer, dokuzar ile yüzer ve onar ileriye ve geriye doğru ritmik sayma yapması, sayı dizisindeki artış/azalış kuralını keşfederek genellemesi amaçlanır.",
+          "strateji": {
+            "deger": "ritmik-sayma-ve-kural-genelleme",
+            "ikincil": "yuzyuz-onar-ve-aralikli-sayma"
+          },
+          "destekleyiciler": [
+            "yuzyuz-ritmik-tablo",
+            "sayma-cemberi",
+            "adim-sayar-kartlari"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.1 · Ritmik Adım ve Artış Değişim Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Matematik (MAT.3.1.4 · Tema 1: Sayılar Ve Nicelikler 1)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:2, sinif:3, uniteId:249, kod:MAT.3.1.4",
+            "tymm_cerceve": "MAB3. Matematiksel Temsil"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Ritmik sayma tablosu açılır; başlangıç sayısı 21 belirlenir ve yedişer artış kuralı incelenir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: 21'den başlayarak her adımda +7 ekleyerek 70 sınırına ulaşma planı kuralım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: 21, 28, 35, 42, 49, 56, 63, 70 adımları sırayla seslendirilir ve ritmik dizi yazılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Sayı dizisindeki her komşu iki sayı arasındaki farkı hesaplayarak kontrol et: Fark daima 7 mi?",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: 49'dan başlayarak geriye doğru yedişer sayma yapılır: 49, 42, 35, 28, 21 adımları eşleştirilir.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: 300'den 1000'e kadar yüzer ileriye ve geriye ritmik sayma için yeni bir akış hazırla.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: İleriye ritmik sayma ile geriye ritmik sayma arasındaki kural ilişkisini genelle.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Mert, spor salonunda adımlarını 7'şerli sayarak parkur tamamlıyor. 21'den başlayıp ileriye doğru yedişer ritmik sayarak 70'e kadar ilerliyor. Mert'in söylediği sayıları yazınız ve 49'dan geriye doğru yedişer saydığında hangi adımları izleyeceğini belirleyiniz.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, ritmik sayma ve kural genelleme etkinliği"
+          },
+          "ogrenci_kayit": {
+            "ileri_sayma": [
+              21,
+              28,
+              35,
+              42,
+              49,
+              56,
+              63,
+              70
+            ],
+            "geri_sayma": [
+              49,
+              42,
+              35,
+              28,
+              21
+            ]
+          },
+          "rozet": {
+            "tur": "ritim-kasifi",
+            "gerekce": "7'şerli ve 100'erli ileri-geri ritmik sayma kurallarını başarıyla genelledi."
+          },
+          "farklilastirma": {
+            "destek": "Yedişerli ritmik sayma için 100'lük tabloda ilgili sayı kutucukları renklendirilir.",
+            "zenginlestirme": "Sekizer ve dokuzar saymalarda birler basamağındaki örüntü kuralını keşfetmesi istenir."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "'Ritmik adımlarla kuralı bulalım' — K-02 uyumlu, cesaretlendirici pedagojik dil",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-MAT-G3-5-MAT315",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "MAT.3.1.5",
+          "kazanim_metni": "Sayıları tek-çift olarak sınıflandırabilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Doğal sayıların tek ve çift olarak ayırt edilmesi ve sınıflandırılması (T1: Sayılar ve Nicelikler 1)",
+          "etkinlik_adi": "Çorap Eşleme İstasyonu: Tek ve Çift Sayı Ayrımı",
+          "amac": "Öğrencinin doğal sayıları ikişerli eşleme modeliyle incelemesi, birler basamağı 0, 2, 4, 6, 8 olan sayıların çift; 1, 3, 5, 7, 9 olan sayıların tek olduğunu belirleyerek sayıları sınıflandırması amaçlanır.",
+          "strateji": {
+            "deger": "esleme-ve-ikili-gruplama",
+            "ikincil": "birler-basamagi-kuraliyla-tasnif"
+          },
+          "destekleyiciler": [
+            "ikili-esleme-nesneleri",
+            "tek-cift-kutulari",
+            "sayi-kartlari"
+          ],
+          "d9_varyant": "s",
+          "d9_sema": "D9-doc §8.2 · İki Kümeli Sınıflama (Tek/Çift) Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Matematik (MAT.3.1.5 · Tema 1: Sayılar Ve Nicelikler 1)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:2, sinif:3, uniteId:249, kod:MAT.3.1.5",
+            "tymm_cerceve": "KB2.14. Yorumlama"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "144 ve 167 sayıları incelenir; tek ve çift sayı kavramları ikişerli eşleme (ortaklı oynama) kuralıyla ele alınır.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Sayıların tek mi çift mi olduğunu anlamak için birler basamağındaki rakamı inceleme planını kuralım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: 144 sayısının birler basamağı 4'tür (2 çift, açıkta küp yok → Çift). 167 sayısının birler basamağı 7'dir (3 çift + 1 açıkta → Tek).",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Sonucu modelle denetle: 144 ikiye kalansız bölünebilirken, 167'de 1 kalan oluşuyor mu?",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Verilen sayıları 'Tek Sayılar Sepeti' ve 'Çift Sayılar Sepeti'ne doğru şekilde yerleştir.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: 520, 633, 892 sayıları için tek/çift ayrımı yapacak hızlı kontrol adımlarını tasarla.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Üç basamaklı bir sayının yüzler veya onlar basamağının tek-çift durumunu etkileyip etkilemediğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Bir sınıftaki kitaplıkta 144 hikâye kitabı ve 167 şiir kitabı vardır. Her iki kitabın adetlerini ikişerli paketlediğimizde hangisinde açıkta 1 kitap kalacağını ve sayıların tek mi çift mi olduğunu belirleyiniz.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, tek-çift sınıflama etkinliği"
+          },
+          "ogrenci_kayit": {
+            "144_durumu": "Cift (birler basamagi 4)",
+            "167_durumu": "Tek (birler basamagi 7)"
+          },
+          "rozet": {
+            "tur": "esleme-hakemi",
+            "gerekce": "Doğal sayıları birler basamağı kuralıyla tek ve çift olarak eksiksiz sınıfladı."
+          },
+          "farklilastirma": {
+            "destek": "Öğrenciye önce 1'den 10'a kadar nesne eşlemesi yaptırılır; tek kalan nesne kuralı somutlaştırılır.",
+            "zenginlestirme": "Ardışık iki sayının çarpımının daima çift sayı olmasının gerekçesini araştırması istenir."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "'Tek ve çift sayıları birlikte ayıralım' — K-02 uyumlu, cesaretlendirici pedagojik dil",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-MAT-G3-6-MAT316",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "MAT.3.1.6",
+          "kazanim_metni": "Tek ve çift sayıların toplamlarının tek ya da çift olma durumu arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Tek ve çift sayıların toplamlarında teklik-çiftlik kurallarının tümevarımla genellenmesi (T1: Sayılar ve Nicelikler 1)",
+          "etkinlik_adi": "Sayı Dedektifi: Tek-Çift Toplamlarının Gizemi",
+          "amac": "Öğrencinin tek ve çift sayı ikililerini toplayarak sonuçları gözlemlemesi, somut modellerle eşleşmeyen tekliklerin birleşerek çift oluşturmasını keşfetmesi ve tümevarımsal genelleme yapması amaçlanır.",
+          "strateji": {
+            "deger": "tumevarimsal-akil-yurutme",
+            "ikincil": "ornek-olay-incelemesi-ve-genelleme"
+          },
+          "destekleyiciler": [
+            "ikili-nokta-kartlari",
+            "toplam-tablosu",
+            "cikarim-pusulasi"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.1 · İki Durum Toplamı ve Sonuç İlişki Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Matematik (MAT.3.1.6 · Tema 1: Sayılar Ve Nicelikler 1)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:2, sinif:3, uniteId:249, kod:MAT.3.1.6",
+            "tymm_cerceve": "MAB3. Matematiksel Temsil"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Örnek toplamlar tahtaya yazılır: 7 + 9 = 16 (Çift), 3 + 5 = 8 (Çift), 11 + 13 = 24 (Çift); modellerle açıkta kalan teklikler gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Tek+Tek, Çift+Çift ve Tek+Çift durumları için üç farklı deney grubu oluşturma planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Modeller birleştirilir: 1. tek sayının açıkta kalan 1 birliği ile 2. tek sayının açıkta kalan 1 birliği birleşip yeni bir çift oluşturur; sonuç daima Çift olur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Çift+Tek durumunu dene (ör. 6 + 7 = 13): Çiftin eksiği yok, tekin 1 artığı açıkta kalıyor; sonuç tek mi kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Çift + Çift = Çift kuralını 4 + 8 = 12 örneği üzerinden doğrula.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Üç sayının toplamında (Tek + Tek + Çift) sonucun ne çıkacağını tahmin etme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: 'İki tek sayının toplamı her zaman çifttir' genellemesini tümevarım kanıtlarıyla tek cümleyle ifade et.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Selin iki tek sayıyı (7 ve 9) topladığında sonucun çift çıktığını fark etti. Başka iki tek sayıyı (3 ve 5, 11 ve 13) toplayarak bu durumun her zaman geçerli olup olmadığını inceleyiniz ve kuralı açıklayınız.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, tümevarımsal kural keşfi etkinliği"
+          },
+          "ogrenci_kayit": {
+            "tek_arti_tek": "Cift",
+            "cift_arti_cift": "Cift",
+            "tek_arti_cift": "Tek"
+          },
+          "rozet": {
+            "tur": "mantik-kasifi",
+            "gerekce": "Tek ve çift sayıların toplam kuralını tümevarımsal kanıtlarla başarıyla açıkladı."
+          },
+          "farklilastirma": {
+            "destek": "Nokta modelleri yerine iki renkli düğmeler kullanılarak eşleşen ve açıkta kalan parçalar somutlaştırılır.",
+            "zenginlestirme": "Dört tek sayının toplamının tek mi çift mi olacağını tümevarım kuralını kullanarak açıklaması istenir."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "'Örnekleri inceleyip kuralı birlikte keşfedelim' — K-02 uyumlu, cesaretlendirici pedagojik dil",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-MAT-G3-7-MAT317",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "MAT.3.1.7",
+          "kazanim_metni": "Sayı ve sayı temsiline dönüşen şekil örüntülerine dayalı çıkarım yapabilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Şekil ve sayı örüntülerindeki düzenlilik, varsayım oluşturma ve kural çıkarımı (T1: Sayılar ve Nicelikler 1)",
+          "etkinlik_adi": "Mozaik Taşları: Şekilden Sayıya Örüntü Zinciri",
+          "amac": "Öğrencinin geometrik şekiller veya nesnelerle oluşturulan bir örüntüyü sayı dizisine dönüştürmesi, adımlar arasındaki değişim kuralını belirleyerek varsayımda bulunması ve kuralı sözlü olarak ifade etmesi amaçlanır.",
+          "strateji": {
+            "deger": "oruntu-kurali-kesfi",
+            "ikincil": "sekilden-sayiya-donusum-ve-cikarim"
+          },
+          "destekleyiciler": [
+            "geometrik-mozaik-karolari",
+            "oruntu-seridi",
+            "adim-sayisi-tablosu"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.1 · Adım-Eleman Değişim ve Örüntü Kural Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Matematik (MAT.3.1.7 · Tema 1: Sayılar Ve Nicelikler 1)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:2, sinif:3, uniteId:249, kod:MAT.3.1.7",
+            "tymm_cerceve": "MAB3. Matematiksel Temsil"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Örüntünün adımları masaya dizilir: 1. adımda 4, 2. adımda 7, 3. adımda 10 taş sayılır ve tabloya kaydedilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Adımlar arasındaki farkı bularak örüntünün artış kuralına ilişkin bir varsayım oluşturalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: 7 − 4 = 3 ve 10 − 7 = 3 olduğu bulunur; varsayım: 'Her adımda 3 kare eklenmektedir' kuralı tespit edilir.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Varsayımı sına: 4. adım için 10 + 3 = 13 kare oluşturulup modelle doğrulanıyor mu kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: 5. adımda 13 + 3 = 16 kare olacağını kuralı işleterek bul ve şekli çizerek göster.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Azalan bir örüntü (ör. 25, 21, 17...) için kural bulma ve eksik adımı tamamlama planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Belirlediğin örüntü kuralını 'Başlangıç sayısı ... olup her adımda ... artmaktadır' şeklinde sözlü açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Kerem mozaik taşlarıyla bir örüntü kuruyor: 1. adımda 4 kare, 2. adımda 7 kare, 3. adımda 10 kare kullanıyor. Bu örüntünün kuralını belirleyerek 4. ve 5. adımlarda kaç kare gerekeceğini hesaplayınız.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, örüntü kuralı çıkarım etkinliği"
+          },
+          "ogrenci_kayit": {
+            "kural": "+3 artan",
+            "adim_4": 13,
+            "adim_5": 16
+          },
+          "rozet": {
+            "tur": "oruntu-mimari",
+            "gerekce": "Şekil örüntüsünü sayısal kurala dönüştürdü ve sonraki adımları doğru çıkarsadı."
+          },
+          "farklilastirma": {
+            "destek": "Kareler farklı renklerde eklenerek her adımdaki 3'lük artış görsel olarak vurgulanır.",
+            "zenginlestirme": "10. adımdaki kare sayısını tek tek çizmeden kural bağıntısıyla hesaplaması istenir."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "'Örüntünün sırrını adım adım çözelim' — K-02 uyumlu, cesaretlendirici pedagojik dil",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-MAT-G3-8-MAT318",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "MAT.3.1.8",
+          "kazanim_metni": "Bir çokluktaki ilişkilerden yararlanarak 100’e kadar olan nesnelerin sayısını tahmin edebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "100'e kadar olan nesne gruplarını referans ve parça-bütün ilişkisiyle tahmin etme (T1: Sayılar ve Nicelikler 1)",
+          "etkinlik_adi": "Kavanozdaki Bilyeler: Referansla Çokluk Tahmini",
+          "amac": "Öğrencinin 100'e kadar olan nesne topluluklarını saymadan önce bilinen bir referans grubu (10'lu grup) veya parça-bütün ilişkisi kullanarak tahmin etmesi, ardından sayarak tahminini değerlendirmesi amaçlanır.",
+          "strateji": {
+            "deger": "referans-noktasiyla-tahmin",
+            "ikincil": "parca-butun-ve-sayma-karsilastirmasi"
+          },
+          "destekleyiciler": [
+            "saydam-kavanoz",
+            "10-luk-referans-kabi",
+            "sayma-tablasi"
+          ],
+          "d9_varyant": "k",
+          "d9_sema": "D9-doc §8.3 · Tahmin-Gerçek Karşılaştırma Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Matematik (MAT.3.1.8 · Tema 1: Sayılar Ve Nicelikler 1)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:2, sinif:3, uniteId:249, kod:MAT.3.1.8",
+            "tymm_cerceve": "MAB3. Matematiksel Temsil"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Büyük tabaktaki fındık topluluğu ve 10 adetlik referans tabağı yan yana konur; referans grubunun hacmi gözlemlenir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Büyük tabağın referans tabağından kaç kat büyük olduğunu zihinsel parçalama stratejisiyle planlayalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Büyük tabakta yaklaşık 5-6 tane 10'luk grup sığabileceği düşünülerek 'Tahminim: 55 fındık' olarak kaydedilir.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Fındıkları onar onar gruplayarak gerçek sayımı yap: Gerçek sayı 58 çıktı.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Tahmin (55) ile gerçek sayım (58) arasındaki farkı hesapla: |55 − 58| = 3 farkla çok yakın bir tahmin yapıldığı görülür.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Bir kitap sayfasındaki sözcük sayısını ilk satırdaki sözcükleri referans alarak tahmin etme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Rastgele tahmin etmek yerine referans grubu kullanmanın tahmin doğruluğuna etkisini değerlendir.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Öğretmen masaya içinde yaklaşık 50-60 adet fındık olan bir tabak koydu. Yanına da 10 adet fındığın kapladığı alanı gösteren küçük bir tabak yerleştirdi. 10'luk referansı kullanarak büyük tabaktaki fındık sayısını tahmin ediniz, ardından sayarak tahmininizin yakınlığını belirleyiniz.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, stratejik tahmin etkinliği"
+          },
+          "ogrenci_kayit": {
+            "tahmin": 55,
+            "gercek_sayi": 58,
+            "fark": 3
+          },
+          "rozet": {
+            "tur": "tahmin-uzmani",
+            "gerekce": "Referans grubu stratejisiyle çokluk tahminini yüksek doğrulukla gerçekleştirdi."
+          },
+          "farklilastirma": {
+            "destek": "Önce 20'ye kadar olan çokluklar üzerinde 5'erli referans kutusuyla alıştırma yapılır.",
+            "zenginlestirme": "Farklı büyüklükteki üç kavanozun her birinin içindeki nesne sayısını tek bir referansla tahmin etmesi istenir."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "'Tahminimizi referansla kuralım' — K-02 uyumlu, cesaretlendirici pedagojik dil",
+            "k02_uyumlu": true
+          }
+        }
+      ]
+    }
+  ]
+}
