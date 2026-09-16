@@ -1,0 +1,1844 @@
+{
+  "kapsam": {
+    "program": "TYMM-2024 ilkokul-3 Türkçe · TEMA-8 'Hak Ve Sorumluluklarımız' — DİLİM-8 (19/19-çıktı)",
+    "zemin": "K500 TYMM-PROGRAM-KAZANIMLAR_K500_2026-09-06.json (dersId: 1, sinif: 3, uniteId: 393) + P1-02 Kapsam Kilidi v1.1",
+    "not": "M1-TR-G3-DILIM-8: P1-02 küresel sırası DİLİM-13 (19 nesne · 7-adım · 76 P12). K500 yapısı gereği kazanım kodları tema bazında yinelenir; nesneler uniteId:393 ve sıra numarasıyla ayrışır. T.K.3.4, T.O.3.4 ve T.Y.3.4 (sürece etki eden durumları gözden geçirme) bu dilimde seride ilk kez yer alır; T.Y.3.5 bu temada bulunmaz. Tekrar eden .4/.5 kazanımları için mekanizmalar işlev düzeyinde öncekilerden farklıdır."
+  },
+  "moduller": [
+    {
+      "id": "M1-TR-G3-DILIM-8",
+      "tur": "modul-etkinligi",
+      "format": "vmpak-icerik/0.2",
+      "kayit": "P1-02-DILIM-13 (TR-G3-T8)",
+      "nesneler": [
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-93-TD31",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.D.3.1",
+          "kazanim_metni": "Dinlemeyi/izlemeyi yönetebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Hak konulu metni dinlerken iki yüzlü hak kartını çevirme, kurallara uygun dinleme ve uygun zamanda söz alma (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Hak Kartım: Yüzümü Çeviririm, Sıramı Beklerim",
+          "amac": "Öğrencinin haklar konulu metni dinleme kurallarına uygun dinlemesi, iki yüzlü hak kartını dinleme ya da konuşma yüzüne çevirerek uygun zamanda söz alması amaçlanır.",
+          "strateji": {
+            "deger": "hak-karti-yuz-cevirme",
+            "ikincil": "dinleme-ve-soz-oz-yonetimi"
+          },
+          "destekleyiciler": [
+            "hak-karti",
+            "hak-konusu-dinleme-metni",
+            "kart-kullanim-kurali"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Hak Kartı Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.D.3.1 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.D.3.1",
+            "tymm_cerceve": "Dinleme/İzleme becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Hak kartı ele alınır: Dinleme yüzünün ve söz alma yüzünün ne zaman kullanılacağı gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Dinlerken hangi düşüncenizi paylaşmak istediğinizi ve kartınızı ne zaman çevireceğinizi belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Metin dinlenir; kartlar dinleme yüzünde tutulur; söz almak isteyen kartını çevirir ve sırası gelince konuşur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Kartını doğru yüzlerde tutup tutmadığını ve sıran gelince konuşup konuşmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Metin ikinci kez dinlenir; bu kez her öğrenci en az bir kez söz alma yüzünü kullanır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Bir sonraki dinlemede kartını çevirmeden önce kendine bir düşünce cümlesi kurma planı yap.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Kartla öz yönetim yapmanın dinlemeyi ve söz almayı nasıl düzenlediğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Sınıfınız çocuk hakları üzerine bir metin dinleyecek. Her öğrencinin iki yüzlü bir hak kartı var: Bir yüzünde 'dinleme hakkı', diğer yüzünde 'söz alma hakkı' yazıyor. Dinlerken kartınızın dinleme yüzü yukarıda olsun. Düşüncenizi paylaşmak istediğinizde kartınızı söz alma yüzüne çeviriniz ve sıranız gelince konuşunuz.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Hak Kartı Şeması"
+          },
+          "ogrenci_kayit": {
+            "kart_yuz_cevirme": "uygulandi",
+            "dinleme_kurallari": "uyuldu",
+            "soz_alma": "sira-gelince-yapildi"
+          },
+          "rozet": {
+            "tur": "hak-karti-dinleyicisi",
+            "gerekce": "Hak kartını çevirerek dinleme ve uygun zamanda söz alma sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Kart çevirme öğretmenle birlikte yapılır; söz sırası tahtadan izlenir.",
+            "zenginlestirme": "Öğrenci kartını ne zaman çevirdiğini ve neden o anda söz almak istediğini bir cümleyle açıklar."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Kartını çevir, sıranı bekle — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-94-TD32",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.D.3.2",
+          "kazanim_metni": "Dinledikleri/izledikleriyle ilgili anlam oluşturabilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Hak ve sorumluluk resim çiftlerini eşleştirme, dinleyeceği metnin konusunu tahmin etme ve dinlediklerini ön bilgileriyle bağlama (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Resim Çiftleri: Eşleştiririm, Konuyu Öngörürüm",
+          "amac": "Öğrencinin hak ve sorumluluk resim çiftlerini eşleştirerek dinleyeceği metnin konusunu tahmin etmesi ve dinlediklerindeki bilgilerle ön bilgileri arasında bağlantı kurması amaçlanır.",
+          "strateji": {
+            "deger": "resim-cifti-eslestirme",
+            "ikincil": "tahmin-ve-on-bilgi-baglantisi"
+          },
+          "destekleyiciler": [
+            "resim-cifti-kartlari",
+            "hak-metni-sesli-kayit",
+            "baglanti-satiri-kagidi"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Resim Çiftleri Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.D.3.2 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.D.3.2",
+            "tymm_cerceve": "Dinleme/İzleme becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Resim çiftleri ele alınır: Bir resmin diğerini nasıl tamamladığı örneklerle gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Çiftleri hangi ayrıntılara göre eşleştireceğini belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Resimler eşleştirilir; konu tahmini söylenir; metin dinlenir; bağlantı satırı yazılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Çiftlerini eşleştirip eşleştirmediğini ve bağlantı satırını doldurup doldurmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Bağlantı satırları sınıfta okunur; 'zaten biliyordum' ve 'benim için yeni' yanıtları karşılaştırılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Bağlantı satırındaki bir bilgiyi seç ve onun hakkında bir soru kurma planı yap.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Resimleri eşleştirmenin ve bağlantı kurmanın dinlediğini anlamayı nasıl desteklediğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Öğretmeniniz size resim çiftleri gösterecek: Bir resimde bir hak, diğerinde bir sorumluluk var. Çiftleri eşleştiriniz ve metnin konusunu tahmin ediniz. Metin dinlendikten sonra bağlantı satırına yazınız: 'Bu bilgiyi zaten biliyordum' ya da 'Bu benim için yeni'.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Resim Çiftleri Şeması"
+          },
+          "ogrenci_kayit": {
+            "resim_cifti_eslestirme": "yapildi",
+            "konu_tahmini": "soylendi",
+            "on_bilgi_baglantisi": "satira-yazildi"
+          },
+          "rozet": {
+            "tur": "resim-cifti-eslestireni",
+            "gerekce": "Resim çiftlerini eşleştirip konuyu tahmin etme ve dinlediklerini bildikleriyle bağlama sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Resim çiftleri iki çiftle sınırlandırılır; bağlantı satırı sözlü doldurulabilir.",
+            "zenginlestirme": "Öğrenci eşleştirdiği bir çift için 'Bu resim metnin konusu hakkında ipucu veriyor çünkü...' cümlesi kurar."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Çiftini eşleştir, tahminini söyle — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-95-TD33",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.D.3.3",
+          "kazanim_metni": "Dinlediklerini/izlediklerini çözümleyebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Dinlediği hak öyküsünün konusunu bulma ve ana duygusunu üç aday mühür arasından seçerek belirleme (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Ana Fikir Mühürü: Mührümü Seçerim, Ana Fikri Damgalarım",
+          "amac": "Öğrencinin dinlediği hak öyküsünün konusunu bulması ve ana fikrini ya da ana duygusunu aday mühürler arasından seçerek damgalaması amaçlanır.",
+          "strateji": {
+            "deger": "ana-fikir-muhur-secimi",
+            "ikincil": "konu-belirleme-ve-gerekce"
+          },
+          "destekleyiciler": [
+            "muhur-kartlari",
+            "hak-oykusu-sesli-metin",
+            "damga-posteri"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Ana Fikir Mühürü Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.D.3.3 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.D.3.3",
+            "tymm_cerceve": "Dinleme/İzleme becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Mühür kartları ele alınır: Her mührün bir ana duyguyu temsil ettiği örneklerle gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Dinlerken hangi ayrıntılara göre mühür seçeceğini belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Öykü dinlenir; konu belirlenir; mühür seçilir ve postere damgalanır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Mührünü gerekçenle seçip seçmediğini ve postere damgalayıp damgalamadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Posterdeki mühürler okunur; farklı mühür seçenlerin gerekçeleri konuşulur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Seçtiğin mühür için öyküden bir kanıt cümlesi bulma planı yap.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Ana duyguyu mühürle belirlemenin öyküyü çözümlemeyi nasıl kolaylaştırdığını açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Bir hak öyküsü dinleyeceksiniz. Dinlerken öykünün konusunu düşününüz. Öykü bitince üç mühür kartından öykünün ana duygusunu en iyi açıklayanı seçiniz. Seçtiğiniz mührü damga posterine basınız ve seçiminizin gerekçesini söyleyiniz.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Ana Fikir Mühürü Şeması"
+          },
+          "ogrenci_kayit": {
+            "konu_belirleme": "yapildi",
+            "muhur_secimi": "gerekcesiyle-yapildi",
+            "damga_posteri": "kullanildi"
+          },
+          "rozet": {
+            "tur": "ana-fikir-muhurcusu",
+            "gerekce": "Öykünün konusunu bulma ve ana duygusunu mühürle damgalama sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Mühür kartları ikiye indirilir; gerekçe için kalıp cümle verilir.",
+            "zenginlestirme": "Öğrenci iki farklı öykü için iki mühür seçer ve mühürlerin ortak yönünü söyler."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Mührünü seç, gerekçenle damgala — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-96-TD34",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.D.3.4",
+          "kazanim_metni": "Dinleme/izleme sürecine etki eden durumları gözden geçirebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "İki dinleme noktasını karşılaştırma kartıyla gözlemleme, uygun olanı seçme ve ortamın etkisini yazma (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Dinleme Yeri Karşılaştırması: İki Noktayı Denerim, Uygun Olanı Seçerim",
+          "amac": "Öğrencinin iki farklı dinleme noktasını karşılaştırma kartıyla gözlemlemesi, uygun olanı seçmesi ve ortamın dinleme sürecindeki duygu, düşünce ve davranışlarına etkisini yazması amaçlanır.",
+          "strateji": {
+            "deger": "dinleme-noktasi-karsilastirmasi",
+            "ikincil": "nokta-etki-notu-yazma"
+          },
+          "destekleyiciler": [
+            "karsilastirma-karti",
+            "sinif-nokta-etiketleri",
+            "hak-metni-sesli-kayit"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Dinleme Yeri Karşılaştırması Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.D.3.4 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.D.3.4",
+            "tymm_cerceve": "Dinleme/İzleme becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Karşılaştırma kartı ele alınır: İki dinleme noktasını gözlemlemenin dinlemeye etkisi konuşulur.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Her noktada nelere dikkat edeceğini belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: İki noktada dinleme yapılır; karşılaştırma kartı doldurulur; uygun nokta seçilir; etki notu yazılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Karşılaştırma kartındaki satırları doldurup doldurmadığını ve etki notunu yazıp yazmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Etki notları paylaşılır; sınıfın ortak tercihi konuşulur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Bir sonraki dinleme için denemek istediğin yeni bir nokta belirleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Ortamı karşılaştırmanın dinleme sırasındaki duygu ve düşüncelerini nasıl etkilediğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Sınıfınızda iki dinleme noktası var: pencere yanı ve kitap köşesi. Karşılaştırma kartınızı alınız. Her noktada kısa bir dinleme yapınız: Sesi nasıl duyuyorsun, ışık nasıl, nasıl hissediyorsun? Kartına işaretle. Sonra uygun noktayı seç ve etki notunu yaz: 'Pencere yanında dikkatim dağıldı çünkü...' gibi.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Dinleme Yeri Karşılaştırması Şeması"
+          },
+          "ogrenci_kayit": {
+            "iki_nokta_gozlemi": "kartla-yapildi",
+            "uygun_nokta_secimi": "yapildi",
+            "etki_notu": "yazildi"
+          },
+          "rozet": {
+            "tur": "dinleme-yeri-karsilastirmacisi",
+            "gerekce": "İki dinleme noktasını karşılaştırma kartıyla gözlemleme ve uygun olanı seçme sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Karşılaştırma kartı üç satırla sınırlandırılır; gözlem öğretmenle birlikte yapılır.",
+            "zenginlestirme": "Öğrenci seçtiği nokta için bir iyileştirme önerisi yazar ve sınıfa sunar."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "İki noktayı dene, uygun olanı seç — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-97-TD35",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.D.3.5",
+          "kazanim_metni": "Dinleme/izleme sürecini değerlendirebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Dinlemek istediği türü oylama kabına taş atarak tercih etme ve tercihini nedenleriyle açıklama (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Tür Oylama Kabı: Taşımı Atarım, Nedenimi Söylerim",
+          "amac": "Öğrencinin dinleyeceği türü oylama kabına taş atarak tercih etmesi ve tercihini nedenleriyle belirtmesi amaçlanır.",
+          "strateji": {
+            "deger": "tur-oylama-kabi",
+            "ikincil": "tercih-nedeni-aciklama"
+          },
+          "destekleyiciler": [
+            "tur-oylama-kaplari",
+            "oy-taslari",
+            "tercih-neden-karti"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Tür Oylama Kabı Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.D.3.5 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.D.3.5",
+            "tymm_cerceve": "Dinleme/İzleme becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Oylama kapları ele alınır: Tercih etmenin ve gerekçe söylemenin dinlemeyi nasıl hazırladığı konuşulur.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Hangi türü seçeceğini ve nedenini nasıl yazacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Oy taşları kaplara atılır; neden kartları yazılır; sınıf tercihi belirlenir ve dinleme yapılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Taşını kabına atıp atmadığını ve nedenini yazıp yazmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Kaplar sayılır; sınıfın tercihi ve gerekçeleri konuşulur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Bir sonraki oylama için yeni bir tür önerme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Tercihini nedenleriyle belirtmenin dinleme isteğini nasıl etkilediğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Sınıfınız bir dinleme etkinliği yapacak. Üç tür kabı var: öykü, bilmece, çocuk şarkısı. Oy taşını al ve dinlemek istediğin türün kabına at. Sonra tercih neden kartına yaz: 'Öykü seçtim çünkü...' Oylama bitince sınıfın tercihini birlikte belirleyiniz.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Tür Oylama Kabı Şeması"
+          },
+          "ogrenci_kayit": {
+            "tur_tercihi": "oy-tasiyla-yapildi",
+            "tercih_nedeni": "karta-yazildi",
+            "sinif-tercihi": "belirlendi"
+          },
+          "rozet": {
+            "tur": "tur-oylama-katilimcisi",
+            "gerekce": "Dinleyeceği türü oylama kabıyla tercih etme ve nedenini açıklama sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Tür kapları ikiye indirilir; neden kartı için kalıp cümle verilir.",
+            "zenginlestirme": "Öğrenci en az oy alan türü de dinler ve iki türü gerekçeleriyle karşılaştırır."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Taşını at, nedenini söyle — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-98-TK31",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.K.3.1",
+          "kazanim_metni": "Konuşmalarını yönetebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Sorumluluk konusunu anlatırken ton kadranını konuya göre ayarlama ve konuşma kurallarına uygun iletişimi sürdürme (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Ton Kadranı: Konuma Göre Ayarlarım",
+          "amac": "Öğrencinin sorumluluk konulu konuşmasında üslubunu ton kadranıyla ayarlaması ve konuşma kurallarına uygun biçimde iletişimini sürdürmesi amaçlanır.",
+          "strateji": {
+            "deger": "ton-kadran-ayari",
+            "ikincil": "kural-yandizini-kontrolu"
+          },
+          "destekleyiciler": [
+            "ton-kadran-karti",
+            "sorumluluk-konusu-kartlari",
+            "kural-yan-dizini"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Ton Kadranı Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.K.3.1 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.K.3.1",
+            "tymm_cerceve": "Konuşma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Ton kadranı ele alınır: Konunun özelliğinin ton ayarını nasıl belirlediği örneklerle gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Hangi sorumluluk konusunu seçeceğini ve kadranını nasıl ayarlayacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Kadran ayarlanır; yan dizindeki kurallar yoklanır; sorumluluk konusu anlatılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Kadranını ayarlayıp ayarlamadığını ve kuralları konuşurken uygulayıp uygulamadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Konuşmalar dinlenir; sınıf, konuya en uygun ayarı gerekçesiyle seçer.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Kadranına yeni bir konum öner ve bu konumun hangi konulara uyacağını belirleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Tonunu konuya göre ayarlamanın iletişimini nasıl sürdürdüğünü açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Sınıf sorumluluklarınız hakkında konuşacaksınız. Konuşmadan önce ton kadranınızı ayarlayınız: 'Ağırbaşlı', 'İstekli' ya da 'Sakin'. Kadranın yan dizinindeki kuralları yoklayınız: ses düzeyi, nezaket sözleri, göz teması. Ayarınız hazırsa konuşunuz ve iletişimi sürdürünüz.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Ton Kadranı Şeması"
+          },
+          "ogrenci_kayit": {
+            "ton_ayari": "kadranla-yapildi",
+            "kural_kontrolu": "yan-dizinle-yapildi",
+            "iletisim": "kurallara-uygun-surdu"
+          },
+          "rozet": {
+            "tur": "ton-kadran-konusmacisi",
+            "gerekce": "Ton kadranını konuya göre ayarlama ve kurallara uygun konuşma sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Kadran iki konuma indirilir; konuşma iki cümleyle sınırlandırılır.",
+            "zenginlestirme": "Öğrenci aynı konuyu iki farklı kadran ayarıyla anlatır ve ayar farkını açıklar."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Kadranını ayarla, konuşmaya başla — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-99-TK32",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.K.3.2",
+          "kazanim_metni": "Konuşmalarında içerik oluşturabilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Dinlediği hak konulu konuşmanın nasıl sonuçlanacağını domino kartlarıyla tahmin etme (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Konuşma Sonucu Domino: Başını Dinlerim, Sonunu Kurarım",
+          "amac": "Öğrencinin dinlediği hak konulu konuşmanın nasıl sonuçlanacağına ilişkin tahminlerde bulunması ve tahminini domino kartlarıyla kurması amaçlanır.",
+          "strateji": {
+            "deger": "konusma-sonucu-tahmin-dominosu",
+            "ikincil": "tahmin-karti-dizme"
+          },
+          "destekleyiciler": [
+            "domino-kartlari",
+            "hak-konusu-konusma-metni",
+            "tahmin-seridi"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Konuşma Sonucu Domino Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.K.3.2 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.K.3.2",
+            "tymm_cerceve": "Konuşma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Domino kartları ele alınır: Konuşmanın başından sonunu tahmin etmenin nasıl çalışacağı gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Konuşmayı dinlerken hangi ipuçlarına bakacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Konuşmanın başı dinlenir; tahmin kartları domino gibi dizilir; tahmin söylenir; sonu okunur ve karşılaştırılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Dominonu dizip dizmediğini ve tahminini söyleyip söylemediğini kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Dominolar sınıfta gezilir; farklı tahminlerin gerekçeleri konuşulur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Dominona konuşmanın devamı için yeni bir kart ekleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Konuşmanın sonunu tahmin etmenin dinlediğini anlamayı nasıl desteklediğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Öğretmeniniz haklar üzerine bir konuşmanın başını okuyacak. Konuşma durduğunda domino kartlarınızı alınız: 'Sizce konuşmacı ne söyleyecek?' Tahmin kartlarınızı domino gibi diziniz ve tahmininizi söyleyiniz. Konuşmanın sonu okununca dizdiğiniz dominoyla sonu karşılaştırınız.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Konuşma Sonucu Domino Şeması"
+          },
+          "ogrenci_kayit": {
+            "tahmin_karti_dizme": "dominoyla-yapildi",
+            "tahmin_soyleme": "gerceklestirildi",
+            "sonu-karsilastirma": "yapildi"
+          },
+          "rozet": {
+            "tur": "sonuc-domino-kurucusu",
+            "gerekce": "Dinlediği konuşmanın sonunu domino kartlarıyla tahmin etme sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Domino kartları iki seçenekli verilir; dizme öğretmenle birlikte yapılır.",
+            "zenginlestirme": "Öğrenci iki farklı son tahmini dizer ve hangisinin konuşmaya daha uygun olduğunu gerekçelendirir."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Dominonu diz, tahminini söyle — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-100-TK33",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.K.3.3",
+          "kazanim_metni": "Konuşma kurallarını uygulayabilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Durum kartına göre ses düzeyini ayarlama ve söz kesesinden seçtiği sözcükleri yerinde kullanma (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Durum Kartı ve Söz Kesesi: Durumumu Çekerim, Sözümü Seçerim",
+          "amac": "Öğrencinin durum kartına göre ses düzeyini ayarlaması ve söz kesesinden seçtiği sözcükleri konuşmasında yerinde ve anlamına uygun kullanması amaçlanır.",
+          "strateji": {
+            "deger": "durum-karti-ve-soz-kesesi",
+            "ikincil": "ses-ayari-ve-soz-secimi"
+          },
+          "destekleyiciler": [
+            "durum-kartlari",
+            "soz-kesesi",
+            "hak-cumleleri-seridi"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Durum Kartı ve Söz Kesesi Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.K.3.3 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.K.3.3",
+            "tymm_cerceve": "Konuşma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Durum kartları ve söz kesesi ele alınır: Durumun sesi, kesenin sözü nasıl belirlediği gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Hangi durum kartını çekmek istediğini ve cümleni nasıl kuracağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Durum kartı çekilir; ses ayarlanır; keseden sözcükler çekilir; cümle söylenir.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Durum kartına göre sesini ayarlayıp ayarlamadığını ve keseden çektiğin sözcükleri yerinde kullanıp kullanmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Cümleler sınıfta tekrarlanır; sınıf, sözcüğü en yerinde kullanan örnekleri konuşur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Keseden yeni bir sözcük çek ve onu farklı bir cümlede kullanma planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Duruma göre ses ayarlamanın ve sözcükleri yerinde seçmenin konuşmanı nasıl anlaşılır kıldığını açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Bir hak cümlesi söyleyeceksiniz. Önce bir durum kartı çekiniz: 'Sınıfta', 'Kütüphanede' ya da 'Törende'. Durumunuza göre ses düzeyinizi ayarlayınız. Sonra söz kesesinden iki sözcük çekiniz ve cümlenizde yerinde kullanınız.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Durum Kartı ve Söz Kesesi Şeması"
+          },
+          "ogrenci_kayit": {
+            "durum_karti_cekme": "yapildi",
+            "ses_duzeyi": "duruma-gore-ayarlandi",
+            "soz_secimi": "keseden-yerinde-yapildi"
+          },
+          "rozet": {
+            "tur": "durum-karti-soz-secicisi",
+            "gerekce": "Durum kartına göre sesini ayarlama ve keseden seçtiği sözcükleri yerinde kullanma sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Durum kartları iki seçenekli verilir; keseden tek sözcük çekilir.",
+            "zenginlestirme": "Öğrenci iki farklı durum kartı için aynı cümleyi söyler ve ses farkını açıklar."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Kartını çek, sözünü keseden al — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-101-TK34",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.K.3.4",
+          "kazanim_metni": "Konuşma sürecine etki eden durumları gözden geçirebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Konuşma yapacağı yeri test kartıyla deneme ve ortamın konuşmasına etkisini açıklama (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Konuşma Yeri Testi: Yerimi Denerim, Kararımı Veririm",
+          "amac": "Öğrencinin konuşma yapacağı yerin uygunluğunu test kartıyla gözden geçirmesi ve ortamın konuşma sürecindeki duygu, düşünce ve davranışlarına etkisini açıklaması amaçlanır.",
+          "strateji": {
+            "deger": "konusma-yeri-test-karti",
+            "ikincil": "test-sonucu-etki-aciklamasi"
+          },
+          "destekleyiciler": [
+            "test-karti",
+            "konusma-yeri-etiketleri",
+            "sorumluluk-konusu-kartlari"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Konuşma Yeri Testi Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.K.3.4 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.K.3.4",
+            "tymm_cerceve": "Konuşma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Test kartı ele alınır: Konuşma yerinin konuşmayı nasıl etkilediği örneklerle konuşulur.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Test kartındaki soruları hangi sırayla yanıtlayacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Konuşma yeri test edilir; karar verilir; sorumluluk konuşması yapılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Test kartını doldurup doldurmadığını ve kararını söyleyip söylemediğini kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Test sonuçları paylaşılır; sınıfın ortak gözlemleri konuşulur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Bir sonraki konuşma için test kartına yeni bir soru ekleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Ortamı test etmenin konuşma sırasındaki duygu ve davranışlarını nasıl etkilediğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Sorumluluklar hakkında konuşacaksınız. Konuşmadan önce yerinizi test ediniz. Test kartındaki soruları yanıtlayınız: Sesim buradan duyuluyor mu? Arkadaşlarımı görebiliyor muyum? Kendimi nasıl hissediyorum? Testin sonucuna göre yerin hakkında karar ver ve kararının nedenini söyle.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Konuşma Yeri Testi Şeması"
+          },
+          "ogrenci_kayit": {
+            "yer_testi": "kartla-yapildi",
+            "konusma_yeri_karari": "verildi",
+            "etki_aciklamasi": "yapildi"
+          },
+          "rozet": {
+            "tur": "konusma-yeri-test-edeni",
+            "gerekce": "Konuşma yerini test kartıyla deneme ve kararını açıklama sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Test kartı üç soruyla sınırlandırılır; test öğretmenle birlikte yapılır.",
+            "zenginlestirme": "Öğrenci iki farklı yeri test eder ve konuşması için en uygun yeri gerekçesiyle seçer."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Yerini test et, kararını ver — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-102-TK35",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.K.3.5",
+          "kazanim_metni": "Konuşma sürecini değerlendirebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Konuşmasındaki olumlu davranışı tohum kartına yazma ve sonraki konuşma saksısına aktarma (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Davranış Tohumu: İyiyi Yazarım, Sonraki Konuşmama Ekerim",
+          "amac": "Öğrencinin konuşmasındaki olumlu davranışları tohum kartına yazması ve sonraki konuşmalarına aktarması amaçlanır.",
+          "strateji": {
+            "deger": "davranis-tohumu-aktarimi",
+            "ikincil": "olumlu-davranis-notu"
+          },
+          "destekleyiciler": [
+            "tohum-kartlari",
+            "konusma-saksisi-posteri",
+            "davranis-soz-seridi"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Davranış Tohumu Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.K.3.5 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.K.3.5",
+            "tymm_cerceve": "Konuşma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Davranış tohumu ele alınır: Olumlu davranışların sonraki konuşmalara nasıl taşınacağı gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Konuşmanda iyi yaptığın davranışı nasıl seçeceğini belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Konuşma yapılır; olumlu davranış tohum kartına yazılır; saksıya ekilir.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Tohum kartını doldurup doldurmadığını ve tohumunu saksıya ekip ekmediğini kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Saksıdaki tohumlar okunur; ortak davranışlar konuşulur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Bir sonraki konuşman için iki tohum seçme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Olumlu davranışlarını sonraki konuşmalarına aktarmanın konuşma alışkanlığını nasıl geliştirdiğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Konuşmanı bitirdikten sonra tohum kartını al. Konuşmanda iyi yaptığın bir davranışı yaz: 'Arkadaşlarımla göz teması kurdum.' Tohumunu konuşma saksısına ek. Bir sonraki konuşmanda bu tohumu hatırla ve davranışını yeniden kullan.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Davranış Tohumu Şeması"
+          },
+          "ogrenci_kayit": {
+            "olumlu_davranis_notu": "tohum-kartina-yazildi",
+            "tohum_ekme": "saksiya-yapildi",
+            "aktarim_hatirlatma": "isaretlendi"
+          },
+          "rozet": {
+            "tur": "davranis-tohumu-ekicisi",
+            "gerekce": "Konuşmasındaki olumlu davranışı tohum kartına yazma ve sonraki konuşmasına aktarma sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Tohum kartı için davranış seçenekleri hazır verilir; ekme öğretmenle birlikte yapılır.",
+            "zenginlestirme": "Öğrenci bir sonraki konuşmasında tohumunu kullanır ve kullanma deneyimini sınıfa anlatır."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Tohumunu yaz, saksıya ek — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-103-TO31",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.O.3.1",
+          "kazanim_metni": "Okuma sürecini yönetebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Haklar metnini okumadan önce başlık, görsel ve noktalama kapılarını açma (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Üç Okuma Kapısı: Kapılarımı Açarım, Okumaya Başlarım",
+          "amac": "Öğrencinin okuyacağı metnin başlığını ve görsellerini üç kapı düzeniyle incelemesi ve noktalama işaretlerine dikkat ederek okuması amaçlanır.",
+          "strateji": {
+            "deger": "uc-kapili-okuma-hazirligi",
+            "ikincil": "noktalama-kapisinda-durak"
+          },
+          "destekleyiciler": [
+            "okuma-kapilari-karti",
+            "hak-metni-kupuru",
+            "kapi-not-kagidi"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Üç Okuma Kapısı Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.O.3.1 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.O.3.1",
+            "tymm_cerceve": "Okuma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Okuma kapıları ele alınır: Her kapının okumaya nasıl hazırladığı örneklerle gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Kapılarda hangi notları alacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Üç kapı sırayla açılır; metin okunur; noktalama duraklarına dikkat edilir.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Üç kapıyı da açıp açmadığını ve kapı notlarını yazıp yazmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Kapı notları paylaşılır; farklı notlar konuşulur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: En çok ilgini çeken kapı notu için bir soru cümlesi kurma planı yap.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Kapıları açarak hazırlanmanın ve noktalama duraklarına dikkat etmenin okumanı nasıl düzenlediğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Haklar üzerine bir metin okuyacaksınız. Okuma kapıları kartınızı alınız. Birinci kapı: Başlığa bak ve ne anlatıyor olabileceğini söyle. İkinci kapı: Görselleri incele ve bir ayrıntı yaz. Üçüncü kapı: Noktalama işaretlerine bak; noktada durmayı, virgülde beklemeyi hatırla. Üç kapıyı da açınca okumaya başla.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Üç Okuma Kapısı Şeması"
+          },
+          "ogrenci_kayit": {
+            "baslik_kapisi": "acildi",
+            "gorsel_kapisi": "notla-acildi",
+            "noktalama_kapisi": "hatirlatmayla-acildi",
+            "okuma": "gerceklestirildi"
+          },
+          "rozet": {
+            "tur": "uc-kapi-okuyucusu",
+            "gerekce": "Başlık, görsel ve noktalama kapılarını açarak okumaya hazırlanma sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Kapı sayısı ikiye indirilir; kapı notları sözlü söylenebilir.",
+            "zenginlestirme": "Öğrenci üçüncü kapıya kendi hatırlatma sözünü yazar ve sınıfa önerir."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Kapılarını aç, okumaya başla — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-104-TO32",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.O.3.2",
+          "kazanim_metni": "Okuduklarıyla ilgili anlam oluşturabilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Haklar metninin başlığından ve görsellerinden üç okuma penceresiyle tahmin, bağlantı ve görüş oluşturma (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Okuma Pencereleri: Penceremi Açarım, Görüşümü Söylerim",
+          "amac": "Öğrencinin metnin başlığından ve görsellerinden hareketle tahminde bulunması, ön bilgileriyle bağlantı kurması ve içeriğe ilişkin görüş oluşturması amaçlanır.",
+          "strateji": {
+            "deger": "okuma-pencereleri-gorusu",
+            "ikincil": "tahmin-baglanti-gorus-notu"
+          },
+          "destekleyiciler": [
+            "okuma-pencereleri-karti",
+            "hak-metni-kupuru",
+            "gorus-not-seridi"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Okuma Pencereleri Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.O.3.2 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.O.3.2",
+            "tymm_cerceve": "Okuma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Okuma pencereleri ele alınır: Her pencerenin farklı bir hazırlık olduğu gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Pencerelere hangi notları yazacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Üç pencere açılır; tahmin, bağlantı ve görüş notları yazılır; metin okunur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Üç pencereyi de doldurup doldurmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Pencere notları sınıfta okunur; aynı başlığa farklı tahminler konuşulur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Görüş penceren için metinden bir kanıt cümlesi seçme planı yap.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Pencerelerle hazırlanmanın metni anlamayı nasıl desteklediğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Haklar üzerine bir metin okuyacaksınız. Okuma pencereleri kartınızda üç pencere var. Birinci pencere: Başlığa bak ve metinde ne geçeceğini tahmin et. İkinci pencere: Görsellere bak ve bildiklerinle bağlantı kur. Üçüncü pencere: Metnin içeriği hakkında görüşünü yaz. Pencereleri aç ve okumaya başla.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Okuma Pencereleri Şeması"
+          },
+          "ogrenci_kayit": {
+            "tahmin_penceresi": "acildi",
+            "baglanti_penceresi": "acildi",
+            "gorus_penceresi": "yazildi"
+          },
+          "rozet": {
+            "tur": "okuma-pencereleri-acani",
+            "gerekce": "Üç pencereyle tahmin, bağlantı ve görüş oluşturma sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Pencere sayısı ikiye indirilir; görüş notu için kalıp cümle verilir.",
+            "zenginlestirme": "Öğrenci okuma bitince tahmin penceresine döner ve tahmininin gerçekleşip gerçekleşmediğini yazar."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Pencerelerini aç, görüşünü yaz — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-105-TO33",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.O.3.3",
+          "kazanim_metni": "Okuduklarını çözümleyebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Okuduğu haklar metnindeki karakterleri, konuyu ve ana fikri belirleme, noktalama işaretlerinin içerikle ilişkisini yön levhasıyla açıklama (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Metin Yön Levhası: Noktalamaya Bakarım, İçeriği Anlarım",
+          "amac": "Öğrencinin okuduğu metindeki karakterleri, olayları ve duyguları açıklaması, konusunu ve ana fikrini bulması, noktalama işaretlerinin içerikle ilişkisini yön levhasıyla belirlemesi amaçlanır.",
+          "strateji": {
+            "deger": "noktalama-yon-levhasi-cozumleme",
+            "ikincil": "karakter-konu-ana-fikir-notu"
+          },
+          "destekleyiciler": [
+            "yon-levhasi-karti",
+            "hak-metni-kupuru",
+            "cozumleme-not-kagidi"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Metin Yön Levhası Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.O.3.3 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.O.3.3",
+            "tymm_cerceve": "Okuma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Yön levhası ele alınır: Levhanın oklarının metnin farklı yönlerini gösterdiği açıklanır.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Metni okurken hangi bilgiyi hangi oka yazacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Metin okunur; levhanın okları doldurulur; noktalama sorusu yanıtlanır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Yön levhasının dört bölümünü de doldurup doldurmadığını ve yanıtlarının metne dayanıp dayanmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Levhalar sergilenir; noktalama yanıtları karşılaştırılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Levhana metnin mesajını taşıyan yeni bir ok ekleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Noktalama işaretlerinin içerikle ilişkisini belirlemenin metni çözümlemeyi nasıl derinleştirdiğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Haklar üzerine bir metin okuyacaksınız. Yön levhası kartınızı alınız. Levhanın sol okuna metindeki kişileri, sağ okuna konuyu, yukarı okuna ana fikri yazınız. Levhanın alt satırında noktalama sorusu var: 'Bu metindeki ünlem işareti içeriğe ne katıyor?' Yanıtınızı yazınız.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Metin Yön Levhası Şeması"
+          },
+          "ogrenci_kayit": {
+            "karakter_notu": "sol-oka-yazildi",
+            "konu_notu": "sag-oka-yazildi",
+            "ana_fikir_notu": "yukari-oka-yazildi",
+            "noktalama_iliskisi": "alt-satira-yazildi"
+          },
+          "rozet": {
+            "tur": "noktalama-levhasi-cozumleyicisi",
+            "gerekce": "Yön levhasıyla metni çözümleme ve noktalamanın içerikle ilişkisini belirleme sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Levhanın iki oku doldurulur; noktalama sorusu için seçenek verilir.",
+            "zenginlestirme": "Öğrenci ünlem işaretinin olmadığı bir sürümle karşılaştırma yapar ve farkı söyler."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Levhanı doldur, noktalamayı açıkla — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-106-TO34",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.O.3.4",
+          "kazanim_metni": "Okuma sürecine etki eden durumları gözden geçirebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Okuma yerinin fiziksel özelliklerini rapor kartıyla değerlendirme ve rapora göre okuma yerini kullanma (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Okuma Yeri Raporu: Raporumu Yazarım, Yerimi Kullanırım",
+          "amac": "Öğrencinin okuma yapacağı ortamın uygunluğunu rapor kartıyla değerlendirmesi ve ortamın fiziksel özelliklerini dikkate alarak okuması amaçlanır.",
+          "strateji": {
+            "deger": "okuma-yeri-raporu",
+            "ikincil": "fiziksel-ozellik-dikkati"
+          },
+          "destekleyiciler": [
+            "rapor-karti",
+            "okuma-kosesi-etiketleri",
+            "hak-metni-kupuru"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Okuma Yeri Raporu Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.O.3.4 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.O.3.4",
+            "tymm_cerceve": "Okuma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Rapor kartı ele alınır: Okuma yerinin fiziksel özelliklerinin okumayı nasıl etkilediği konuşulur.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Raporda hangi satırları dolduracağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Rapor doldurulur; rapora göre yer düzenlenir; metin okunur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Raporunu doldurup doldurmadığını ve rapora göre yerini kullanıp kullanmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Raporlar paylaşılır; sınıfın ortak önerileri konuşulur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Raporuna yeni bir satır ekleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Ortamın fiziksel özelliklerini değerlendirmenin okumanı nasıl etkilediğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Sınıfın okuma köşesinde bir metin okuyacaksınız. Okumadan önce rapor kartınızı doldurunuz: Işık okumaya uygun mu? Oturduğun yer rahat mı? Ortam sessiz mi? Raporunu yaz. Raporuna göre yerini kullan: Gerekirse ışığı aç, yastığını al, sessiz bir köşeye geç. Sonra metnini oku.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Okuma Yeri Raporu Şeması"
+          },
+          "ogrenci_kayit": {
+            "rapor_karti": "dolduruldu",
+            "fiziksel_ozellik_dikkati": "uygulandi",
+            "okuma": "gerceklestirildi"
+          },
+          "rozet": {
+            "tur": "okuma-yeri-raporcusu",
+            "gerekce": "Okuma yerini rapor kartıyla değerlendirme ve rapora göre okuma sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Rapor kartı üç satırla sınırlandırılır; rapor öğretmenle birlikte doldurulur.",
+            "zenginlestirme": "Öğrenci raporuna göre köşede bir iyileştirme yapar ve yaptığı değişikliği anlatır."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Raporunu yaz, yerini kullan — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-107-TO35",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.O.3.5",
+          "kazanim_metni": "Okuma sürecini değerlendirebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Basılı metin okumasındaki olumlu davranışları aktarım biletine yazma ve çevrim içi okumaya aktarma (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Okuma Aktarım Bileti: Basılıdan Çevrim İçiye Yolculuk",
+          "amac": "Öğrencinin basılı materyali okuma sürecindeki olumlu davranışlarını aktarım biletine yazması ve çevrim içi okuma sürecine aktarması amaçlanır.",
+          "strateji": {
+            "deger": "baskidan-cevrim-ici-okuma-bileti",
+            "ikincil": "olumlu-davranis-bileti"
+          },
+          "destekleyiciler": [
+            "aktarim-bileti",
+            "basili-metin-kupuru",
+            "cevrim-ici-okuma-gorseli"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Okuma Aktarım Bileti Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.O.3.5 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.O.3.5",
+            "tymm_cerceve": "Okuma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Aktarım bileti ele alınır: Basılı okumadaki davranışların çevrim içi okumaya nasıl taşınacağı gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Biletine hangi davranışları yazacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Basılı metin okunur; biletin iki yarısı doldurulur; bilet saklanır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Biletinin iki yarısını da doldurup doldurmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Biletler sınıfta okunur; ortak davranışlar konuşulur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Bir sonraki okuman için biletine yeni bir davranış ekleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Olumlu davranışlarını basılıdan çevrim içi okumaya aktarmanın okuma alışkanlığını nasıl geliştirdiğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Önce basılı bir metin okuyacaksınız. Okurken iyi yaptığın davranışları düşün: 'Duraklara dikkat ettim', 'Başlığı inceledim.' Aktarım biletinin basılı yarısına bu davranışları yaz. Sonra biletin çevrim içi yarısına yaz: 'Bu davranışları ekranda okurken de kullanacağım.' Biletini sakla.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Okuma Aktarım Bileti Şeması"
+          },
+          "ogrenci_kayit": {
+            "basili_yari": "dolduruldu",
+            "cevrim_ici_yari": "dolduruldu",
+            "bilet_saklama": "yapildi"
+          },
+          "rozet": {
+            "tur": "okuma-bileti-yolcusu",
+            "gerekce": "Basılı okumadaki olumlu davranışlarını aktarım biletine yazma ve çevrim içi okumaya aktarma sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Biletin tek yarısı doldurulur; davranış seçenekleri hazır verilir.",
+            "zenginlestirme": "Öğrenci bir sonraki okumada biletini kullanır ve aktarım deneyimini sınıfa anlatır."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Biletini doldur, davranışını aktar — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-108-TY31",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.Y.3.1",
+          "kazanim_metni": "Yazılı anlatım becerilerini yönetebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Bir çocuk hakkı hakkında balon kartına hazırlıksız yazma ve balonu sınıf gökyüzüne asma (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Hak Balonu: Dört Dakikada Yazarım, Balonumu Uçururum",
+          "amac": "Öğrencinin verilen yazma görevini balon kartı üzerinde hazırlıksız olarak yazması ve yazısını sınıfın hak gökyüzünde paylaşması amaçlanır.",
+          "strateji": {
+            "deger": "hak-balonu-hazirliksiz-yazisi",
+            "ikincil": "balon-gokyuzu-paylasimi"
+          },
+          "destekleyiciler": [
+            "balon-kartlari",
+            "cocuk-haklari-listesi",
+            "hak-gokyuzu-panosu"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Hak Balonu Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.Y.3.1 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.Y.3.1",
+            "tymm_cerceve": "Yazma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Hak balonu ele alınır: Hazırlıksız yazının balon kartında nasıl paylaşılacağı gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Hangi hakkı seçeceğini ve balonuna ne yazacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Hak seçilir; dört dakikada balon kartına yazılır; gökyüzüne asılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Yazını sürede bitirip bitirmediğini ve balonunu gökyüzüne asıp asmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Gökyüzü gezilir; her öğrenci bir balon okur ve beğendiği cümleyi söyler.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Balonuna bir de 'Bu hakkı nasıl kullanıyorum?' cümlesi ekleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Hazırlıksız yazmanın düşüncelerini balona aktarmayı nasıl kolaylaştırdığını açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Çocuk hakları listesinden bir hak seç. Dört dakika içinde, hazırlık yapmadan, balon kartına yaz: Bu hak senin için neden önemli? Yazın bitince balonunu sınıfın hak gökyüzüne as. Gökyüzünü gez ve arkadaşlarının balonlarını oku.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Hak Balonu Şeması"
+          },
+          "ogrenci_kayit": {
+            "hazirliksiz_yazma": "balon-kartina-yazildi",
+            "hak_secimi": "listedendi",
+            "balon_asma": "gokyuzune-yapildi"
+          },
+          "rozet": {
+            "tur": "hak-balonu-yazari",
+            "gerekce": "Bir çocuk hakkı hakkında balon kartına hazırlıksız yazma ve gökyüzünde paylaşma sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Süre beş dakikaya çıkarılır; balon iki cümleyle sınırlandırılır.",
+            "zenginlestirme": "Öğrenci gökyüzünden bir arkadaşının balonunu seçer ve ona bir yanıt cümlesi yazar."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Balonunu yaz, gökyüzüne as — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-109-TY32",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.Y.3.2",
+          "kazanim_metni": "Yazılarında içerik oluşturabilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Sorumluluk görevi için ayrıntılı yönerge kitapçığı yazma ve yönergedeki sözcüklerin anlamını bağlamdan tahmin ederek not etme (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Yönerge Kitapçığı: Adım Adım Yazarım, Bağlamdan Anlarım",
+          "amac": "Öğrencinin bir sorumluluk görevi için ayrıntılı bir yönerge yazması ve yönergesindeki bir sözcüğün anlamına ilişkin tahminini bağlamdan yararlanarak yazması amaçlanır.",
+          "strateji": {
+            "deger": "yonerge-kitapcigi-yazma",
+            "ikincil": "baglamdan-anlam-tahmini-notu"
+          },
+          "destekleyiciler": [
+            "yonerge-kitapcigi-sablonu",
+            "sorumluluk-gorevi-kartlari",
+            "baglam-tahmin-satiri"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Yönerge Kitapçığı Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.Y.3.2 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.Y.3.2",
+            "tymm_cerceve": "Yazma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Yönerge kitapçığı ele alınır: Ayrıntılı yönergenin görevi nasıl kolaylaştırdığı örneklenir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Hangi sorumluluk görevini seçeceğini ve sayfalarına ne yazacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Görev seçilir; kitapçık sayfaları doldurulur; bağlam tahmini yazılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Kitapçık sayfalarını ayrıntılı doldurup doldurmadığını ve tahmin satırını yazıp yazmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Kitapçıklar ikili gruplarda okunur; her öğrenci arkadaşının bir adımını uygular.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Kitapçığına 'dikkat edilecekler' sayfası ekleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Ayrıntılı yönerge yazmanın ve bağlamdan anlam tahmin etmenin yazını nasıl geliştirdiğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Sınıf kitap köşesinin düzenlenmesi için bir yönerge kitapçığı yazacaksınız. Kitapçığın sayfalarını doldurunuz: Birinci sayfaya görevi, sonraki sayfalara adımları ayrıntılı yazınız. 'Önce', 'sonra', 'dikkat' sözlerini kullanınız. Sonra kitapçığındaki bir sözcüğü seç ve anlamını bağlamdan tahmin ederek tahmin satırına yaz.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Yönerge Kitapçığı Şeması"
+          },
+          "ogrenci_kayit": {
+            "yonerge_sayfalari": "ayrintili-dolduruldu",
+            "adim_siralamasi": "once-sonra-ile-yapildi",
+            "baglam_tahmini": "satira-yazildi"
+          },
+          "rozet": {
+            "tur": "yonerge-kitapcigi-yazari",
+            "gerekce": "Ayrıntılı yönerge kitapçığı yazma ve sözcük anlamını bağlamdan tahmin etme sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Kitapçık üç sayfayla sınırlandırılır; tahmin satırı için başlangıç cümlesi verilir.",
+            "zenginlestirme": "Öğrenci kitapçığını bir arkadaşına uygulatır ve yönergesinin anlaşılırlığını gözlemler."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Kitapçığını doldur, adım adım yaz — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-110-TY33",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.Y.3.3",
+          "kazanim_metni": "Yazma kurallarını uygulayabilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Hedef kitleye göre plan çerçevesine uygun yazma, pekiştirmeli sözcükleri doğru yazma ve noktalama işaretlerini uygulama (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Plan Çerçevesi ve Pekiştirmeli Söz: Planıma Uyarım, Sözümü Doğru Yazarım",
+          "amac": "Öğrencinin hedef kitle ve konunun özelliğine göre hazırladığı plan çerçevesine uygun yazması, pekiştirmeli sözcükleri doğru yazması ve noktalama işaretlerini kuralına uygun kullanması amaçlanır.",
+          "strateji": {
+            "deger": "plan-cercevesi-pekistirmeli-soz",
+            "ikincil": "hedef-kitle-uyumu-ve-noktalama"
+          },
+          "destekleyiciler": [
+            "plan-cercevesi-karti",
+            "pekistirmeli-soz-kartlari",
+            "noktalama-kural-seridi"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Plan Çerçevesi ve Pekiştirmeli Söz Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.Y.3.3 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.Y.3.3",
+            "tymm_cerceve": "Yazma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Plan çerçevesi ele alınır: Hedef kitlenin ve konunun yazıyı nasıl biçimlendirdiği gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Hedef kitleye göre çerçevene ne yazacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Hedef kitle seçilir; plan çerçevesine uygun yazılır; pekiştirmeli söz yerleştirilir; noktalama denetlenir.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Çerçeveye uygun yazıp yazmadığını ve pekiştirmeli sözü doğru yazıp yazmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Yazılar sınıfta okunur; pekiştirmeli sözlerin yazıya kattığı anlam konuşulur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Yazına ikinci bir pekiştirmeli söz ekleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Plan çerçevesine uymanın ve pekiştirmeli sözleri doğru yazmanın yazını nasıl biçimlendirdiğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Haklar hakkında bir yazı yazacaksınız. Önce hedef kitleni seç: birinci sınıflar mı, veliler mi? Plan çerçeveni doldur ve çerçeveye uygun yaz. Yazına pekiştirmeli söz kartlarından birini yerleştir: 'sapsarı', 'bembeyaz' gibi. Pekiştirmeli sözü doğru yaz ve noktalama işaretlerini kural seridine göre kullan.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Plan Çerçevesi ve Pekiştirmeli Söz Şeması"
+          },
+          "ogrenci_kayit": {
+            "hedef_kitle_secimi": "yapildi",
+            "plan_cercevesi": "uygun-yazildi",
+            "pekistirmeli_soz": "dogru-yazildi",
+            "noktalama_uygulamasi": "seritle-yapildi"
+          },
+          "rozet": {
+            "tur": "pekistirmeli-soz-yazari",
+            "gerekce": "Plan çerçevesine uygun yazma ve pekiştirmeli sözcükleri doğru kullanma sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Plan çerçevesi yarı doldurulmuş verilir; pekiştirmeli söz hazır sağlanır.",
+            "zenginlestirme": "Öğrenci iki farklı hedef kitle için iki plan çerçevesi doldurur ve farkı açıklar."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Çerçeveni doldur, sözünü doğru yaz — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-111-TY34",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.Y.3.4",
+          "kazanim_metni": "Yazma sürecine etki eden durumları gözden geçirebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Yazma ortamının uygunluğunu anahtar kartıyla gözden geçirme ve ortamın yazmasına etkisini açıklama (T8: Hak Ve Sorumluluklarımız teması · uniteId:393)",
+          "etkinlik_adi": "Yazma Yeri Anahtarı: Anahtarımı Seçerim, Etkisini Açıklarım",
+          "amac": "Öğrencinin yazma yapacağı ortamın uygunluğunu anahtar kartlarıyla gözden geçirmesi ve ortamın yazma sürecindeki duygu, düşünce ve davranışlarına etkisini açıklaması amaçlanır.",
+          "strateji": {
+            "deger": "yazma-yeri-anahtari",
+            "ikincil": "anahtar-secimi-etki-aciklamasi"
+          },
+          "destekleyiciler": [
+            "anahtar-kartlari",
+            "yazma-yeri-etiketleri",
+            "hak-konusu-yazma-kagidi"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Yazma Yeri Anahtarı Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.Y.3.4 · Tema 8 · uniteId:393)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:393, kod:T.Y.3.4",
+            "tymm_cerceve": "Yazma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Anahtar kartları ele alınır: Her anahtarın farklı bir yazma yerini açtığı gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Hangi anahtarı seçeceğini ve nedenini nasıl yazacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Anahtar seçilir; yazı yazılır; etki açıklaması yapılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Anahtarını nedenini yazıp yazmadığını ve etki açıklamanı doldurup doldurmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Etki açıklamaları paylaşılır; ortak gözlemler konuşulur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Bir sonraki yazma için denemek istediğin yeni bir anahtar seçme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Ortamını gözden geçirmenin yazma sırasındaki duygu ve davranışlarını nasıl etkilediğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Haklar hakkında bir yazı yazacaksınız. Yazmadan önce yazma yerinin anahtarını seçiniz: Sessiz köşe anahtarı mı, pencere yanı anahtarı mı, sıra anahtarı mı? Anahtar kartına seçme nedenini yaz. Yazını yaz. Sonra etki sorusunu yanıtla: 'Seçtiğim yer yazmamı nasıl etkiledi?'",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Yazma Yeri Anahtarı Şeması"
+          },
+          "ogrenci_kayit": {
+            "anahtar_secimi": "nedeniyle-yapildi",
+            "yazma": "gerceklestirildi",
+            "etki_aciklamasi": "yazildi"
+          },
+          "rozet": {
+            "tur": "yazma-yeri-anahtar-secicisi",
+            "gerekce": "Yazma yerinin anahtarını seçme ve ortamın etkisini açıklama sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Anahtar kartları ikiye indirilir; etki açıklaması sözlü yapılabilir.",
+            "zenginlestirme": "Öğrenci iki farklı anahtarla iki kısa yazı yazar ve yazılarını karşılaştırır."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Anahtarını seç, yazına başla — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        }
+      ]
+    }
+  ]
+}
