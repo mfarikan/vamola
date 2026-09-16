@@ -1,0 +1,119 @@
+{
+  "kapsam": {
+    "program": "TYMM-2024 ilkokul-3 Matematik · TEMA-6 'Veriye Dayalı Araştırma' — DİLİM-5 (1/1-çıktı; MAT-G3 hattının son dilimi)",
+    "zemin": "K500 TYMM-PROGRAM-KAZANIMLAR_K500_2026-09-06.json (dersId: 2, sinif: 3, uniteId: 288) + P1-02 Kapsam Kilidi v1.1",
+    "not": "M1-MAT-G3-DILIM-5: P1-02 3. sınıf Matematik hattının son payload'u (1 nesne · 7-adım · 4 P12). Bu dilimle G3 Matematik 33/33 kazanım tamamlanır."
+  },
+  "moduller": [
+    {
+      "id": "M1-MAT-G3-DILIM-5",
+      "tur": "modul-etkinligi",
+      "format": "vmpak-icerik/0.2",
+      "kayit": "P1-02-DILIM-5 (MAT-G3-T6)",
+      "nesneler": [
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-MAT-G3-33-MAT341",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "MAT.3.4.1",
+          "kazanim_metni": "Kategorik ve sayma ile elde edilen nicel veriye dayalı tek veri grubu ile çalışabilme ve veriye dayalı karar verebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "İstatistiksel araştırma süreci: araştırma sorusu, veri toplama, çetele, sıklık tablosu, nokta grafiği ve veriye dayalı karar (T6: Veriye Dayalı Araştırma)",
+          "etkinlik_adi": "Sınıf Araştırmacısı: Veri Topla, Görselleştir, Karar Ver",
+          "amac": "Öğrencinin günlük yaşamdan kategorik veri gerektiren bir araştırma durumu belirlemesi, araştırma sorusu oluşturup veriyi toplaması, çetele, sıklık tablosu veya nokta grafiği ile görselleştirerek analiz etmesi ve sonuçlara göre veriye dayalı karar vermesi amaçlanır.",
+          "strateji": {
+            "deger": "istatistiksel-arastirma-sureci",
+            "ikincil": "cetele-siklik-tablosu-nokta-grafigi"
+          },
+          "destekleyiciler": [
+            "cetele-kagidi",
+            "siklik-tablosu-sablonu",
+            "nokta-grafigi-seridi"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.1 · Veri Toplama-Görselleştirme-Karar Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Matematik (MAT.3.4.1 · Tema 6: Veriye Dayalı Araştırma)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:2, sinif:3, uniteId:288, kod:MAT.3.4.1",
+            "tymm_cerceve": "KB2.16. Karar Verme"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Sınıf partisi için meyve seçimi durumu ele alınır; 'Sınıfımız en çok hangi meyveyi seviyor?' araştırma sorusunun kategorik veriyle yanıtlanabileceği ortaya konur.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Her öğrencinin bir meyve söylemesiyle verinin nasıl toplanacağını ve çetele kâğıdının nasıl tutulacağını planlayalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: 20 öğrencinin seçimi toplanır ve çeteleye işlenir: elma 7, mandalina 5, muz 4, armut 3, üzüm 1.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Çetele sonuçlarını sıklık tablosuna ve nokta grafiğine aktar; üç gösterimdeki toplamların 20'yi verdiğini ve birbiriyle uyuştuğunu kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Nokta grafiğine bakarak en çok ve en az seçilen meyveleri belirle: elma 7 ile birinci, üzüm 1 ile sonuncu; elma ile mandalina arasındaki fark 2'dir.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Parti için alınacak meyvelerin miktarını araştırma sonuçlarına göre belirleme planı kur: elmadan daha çok, üzümden daha az almak.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Araştırma sorusunun toplanan verilerle yanıtlanıp yanıtlanamadığını ve kararın verilere dayanıp dayanmadığını değerlendir.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Sınıf partisinde ikram edilecek meyvelere karar verilecektir. 'Sınıfımız en çok hangi meyveyi seviyor?' araştırma sorusunu belirleyiniz. 20 öğrencinin meyve seçimlerini çetele kâğıdına toplayınız. Verileri sıklık tablosuna ve nokta grafiğine aktarınız. Hangi meyvenin en çok seçildiğini bulup parti alışverişi için veriye dayalı bir karar yazınız.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, istatistiksel araştırma süreci etkinliği"
+          },
+          "ogrenci_kayit": {
+            "veri_grubu": "tek-grup-kategorik",
+            "ogrenci_sayisi": 20,
+            "elma": 7,
+            "mandalina": 5,
+            "muz": 4,
+            "armut": 3,
+            "uzum": 1,
+            "toplam_kontrol": 20,
+            "karar": "elma-agirlikli-alisveris"
+          },
+          "rozet": {
+            "tur": "sinif-arastirmacisi",
+            "gerekce": "Araştırma sorusundan veriye dayalı karara kadar istatistiksel süreci başarıyla yürüttü."
+          },
+          "farklilastirma": {
+            "destek": "Veri toplama sınıfça yapılır; öğrenci yalnızca kendi meyvesini söyleyerek çeteleye bir işaret koyar.",
+            "zenginlestirme": "Aynı veri için hem sıklık tablosu hem nokta grafiği çizdirilip iki gösterimin birbirini nasıl doğruladığı açıklattırılır."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "'Verilerimizi birlikte toplayıp grafiğe dökelim' — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        }
+      ]
+    }
+  ]
+}
