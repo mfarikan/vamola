@@ -1,0 +1,1366 @@
+{
+  "kapsam": {
+    "program": "TYMM-2024 ilkokul-3 Türkçe · TEMA-7 'Millî Kültürümüz' — DİLİM-7 (14/14-çıktı)",
+    "zemin": "K500 TYMM-PROGRAM-KAZANIMLAR_K500_2026-09-06.json (dersId: 1, sinif: 3, uniteId: 396) + P1-02 Kapsam Kilidi v1.1",
+    "not": "M1-TR-G3-DILIM-7: P1-02 küresel sırası DİLİM-12 (14 nesne · 7-adım · 56 P12). K500 yapısı gereği kazanım kodları tema bazında yinelenir; nesneler uniteId:396 ve sıra numarasıyla ayrışır. T.D.3.4 ve T.D.3.5 ikinci kez yer alır; mekanizmalar işlev düzeyinde öncekilerden farklıdır (köşe düzenleme planı, strateji karşılaştırma kartı). Bu temada T.K.3.5, T.O.3.5 ve T.Y.3.5 bulunmaz."
+  },
+  "moduller": [
+    {
+      "id": "M1-TR-G3-DILIM-7",
+      "tur": "modul-etkinligi",
+      "format": "vmpak-icerik/0.2",
+      "kayit": "P1-02-DILIM-12 (TR-G3-T7)",
+      "nesneler": [
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-79-TD31",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.D.3.1",
+          "kazanim_metni": "Dinlemeyi/izlemeyi yönetebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Masal dinlerken strateji karosu seçme, kurallara uygun dinleme ve kilim deseninin sırasıyla söz alma (T7: Millî Kültürümüz teması · uniteId:396)",
+          "etkinlik_adi": "Masal Kilimi: Strateji Karomu Koyarım, Desen Sırasıyla Konuşurum",
+          "amac": "Öğrencinin dinleyeceği masal için konuya ve amacına uygun dinleme stratejisini seçmesi, masalı kurallara uygun dinlemesi ve kilim deseninin sırasıyla uygun zamanda söz alması amaçlanır.",
+          "strateji": {
+            "deger": "kilim-deseni-soz-sirasi",
+            "ikincil": "strateji-karosu-secimi"
+          },
+          "destekleyiciler": [
+            "masal-kilimi-posteri",
+            "strateji-karolari",
+            "masal-dinleme-metni"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Masal Kilimi Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.D.3.1 · Tema 7 · uniteId:396)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:396, kod:T.D.3.1",
+            "tymm_cerceve": "Dinleme/İzleme becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Masal kilimi ele alınır: Her öğrencinin kilimde bir kareciği olduğu ve strateji karosunu oraya koyacağı gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Hangi strateji karosunu seçeceğini ve masaldan sonra ne paylaşmak istediğini belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Karolar kilime yerleştirilir; masal kurallara uygun dinlenir; desen sırasıyla düşünceler paylaşılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Karonu kilime koyup koymadığını ve desen sırası sana gelince konuşup konuşmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Masal ikinci kez dinlenir; bu kez farklı bir strateji karosu seçilir.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Kilimdeki kareciğine masaldan en çok aklında kalanı yazma planı yap.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Strateji seçmenin ve sırayla söz almanın masalı anlamayı nasıl kolaylaştırdığını açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Sınıfınız bir halk masalı dinleyecek. Dinlemeden önce strateji karolarından birini seçiniz: 'Not alarak', 'Gözümde canlandırarak' ya da 'Soru sorarak'. Karo'nuzu kilim posterindeki kendi kareciğinize koyunuz. Masal bitince kilim deseninin sırasıyla söz alıp düşüncenizi paylaşınız.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Masal Kilimi Şeması"
+          },
+          "ogrenci_kayit": {
+            "strateji_secimi": "karoyla-yapildi",
+            "dinleme_kurallari": "uyuldu",
+            "soz_sirasi": "kilim-deseniyle-yapildi"
+          },
+          "rozet": {
+            "tur": "masal-kilimi-dinleyicisi",
+            "gerekce": "Masal için strateji karosu seçme ve kilim deseninin sırasıyla söz alma sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Strateji karoları ikiye indirilir; söz sırası öğretmenle birlikte izlenir.",
+            "zenginlestirme": "Öğrenci seçtiği stratejinin masalı anlamasını nasıl kolaylaştırdığını bir cümleyle açıklar."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Karonu kilime koy, masalı dinle — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-80-TD32",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.D.3.2",
+          "kazanim_metni": "Dinledikleri/izledikleriyle ilgili anlam oluşturabilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Kültür varlığı görselinden dinleyeceği metnin konusunu tahmin kartlarıyla öngörme ve dinlediklerini ceplere ayırma (T7: Millî Kültürümüz teması · uniteId:396)",
+          "etkinlik_adi": "Tahmin Kartı Cepleri: Görselden Seçerim, Bildiklerimi Ayırırım",
+          "amac": "Öğrencinin kültür varlığı görseline bakarak dinleyeceği metnin konusunu tahmin kartları arasından seçip gerekçelendirmesi, dinlediklerini bildiklerinden ayırarak ceplere yerleştirmesi amaçlanır.",
+          "strateji": {
+            "deger": "tahmin-karti-secme-ve-gerekce",
+            "ikincil": "bildiklerim-duyduklarim-cepleri"
+          },
+          "destekleyiciler": [
+            "kultur-varligi-gorseli",
+            "tahmin-kartlari",
+            "iki-cep-posteri"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Tahmin Kartı Cepleri Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.D.3.2 · Tema 7 · uniteId:396)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:396, kod:T.D.3.2",
+            "tymm_cerceve": "Dinleme/İzleme becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Tahmin kartları ele alınır: Görselin metnin konusu hakkında ipucu verdiği, kartın gerekçeyle seçileceği gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Görselde hangi ayrıntıya bakacağını ve hangi kartı seçeceğini belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Görsel incelenir, tahmin kartı seçilir ve gerekçesi söylenir; metin dinlenir, kartlar ceplere ayrılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Tahmin kartını gerekçenle seçip seçmediğini ve iki cebini de doldurup doldurmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Cepler sınıfta okunur; 'Zaten biliyordum' cebindekilerle metnin konusu karşılaştırılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Cebindeki kartlardan birini seç ve onunla ilgili bir cümle kurma planı yap.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Görsele bakarak tahmin seçmenin ve bildiklerini ayırmanın dinlemeyi nasıl yönlendirdiğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Öğretmeniniz size bir kültür varlığının görselini gösterecek: bir tarihî köprü. Görselden hareketle metnin konusunu tahmin kartları arasından seçiniz ve seçiminizin gerekçesini söyleyiniz. Metin dinlendikten sonra kartları ceplere ayırınız: 'Zaten biliyordum' cebine mi, 'Yeni duydum' cebine mi?",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Tahmin Kartı Cepleri Şeması"
+          },
+          "ogrenci_kayit": {
+            "tahmin_secimi": "gerekcesiyle-yapildi",
+            "bildiklerim_cebi": "dolduruldu",
+            "duyduklarim_cebi": "dolduruldu"
+          },
+          "rozet": {
+            "tur": "tahmin-cebi-secicisi",
+            "gerekce": "Görselden tahmin kartı seçme ve dinlediklerini ceplere ayırma sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Tahmin kartları iki seçenekli verilir; cepler öğretmenle birlikte doldurulur.",
+            "zenginlestirme": "Öğrenci 'Yeni duydum' cebindeki bir kartı seçip onun hakkında bir soru sorar."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Kartını seç, gerekçeni söyle — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-81-TD33",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.D.3.3",
+          "kazanim_metni": "Dinlediklerini/izlediklerini çözümleyebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Dinlediği masalın konusunu ve ana duygusunu yumak kartlarına sararak çözümleme (T7: Millî Kültürümüz teması · uniteId:396)",
+          "etkinlik_adi": "Dinleme Yumakları: Konuyu Bir Yumağa, Ana Duyguyu Diğerine Sar",
+          "amac": "Öğrencinin dinlediği masalın konusunu ve ana duygusunu belirleyerek yumak kartlarına yerleştirmesi amaçlanır.",
+          "strateji": {
+            "deger": "ikili-yumak-cozumlemesi",
+            "ikincil": "konu-ve-ana-duygu-karti"
+          },
+          "destekleyiciler": [
+            "dinleme-yumagi-karti",
+            "masal-dinleme-metni",
+            "yumak-etiketleri"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Dinleme Yumakları Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.D.3.3 · Tema 7 · uniteId:396)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:396, kod:T.D.3.3",
+            "tymm_cerceve": "Dinleme/İzleme becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Dinleme yumakları ele alınır: Konunun ve ana duygunun ayrı yumaklara sarılacağı örneklerle gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Dinlerken hangi ayrıntıları hangi yumağa yazacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Masal dinlenir; konu birinci yumağa, ana duygu ikinci yumağa yazılır ve panoya asılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: İki yumağın da dolu olup olmadığını ve yazdıklarının masala dayanıp dayanmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Panodaki yumaklar okunur; aynı masalı dinleyenlerin ana duyguları karşılaştırılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Ana duygu yumağın için masaldan bir örnek olay seçme planı yap.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Konuyu ve ana duyguyu ayrı yumaklara ayırmanın masalı çözümlemeyi nasıl kolaylaştırdığını açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Bir halk masalı dinleyeceksiniz. Dinlerken masalın konusunu ve ana duygusunu düşününüz. Masal bitince yumak kartlarınızı doldurunuz: Birinci yumağa masalın konusunu, ikinci yumağa masalın size hissettirdiği ana duyguyu yazınız. Yumaklarınızı etiketleyip panoya asınız.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Dinleme Yumakları Şeması"
+          },
+          "ogrenci_kayit": {
+            "konu_yumagi": "dolduruldu",
+            "ana_duygu_yumagi": "dolduruldu",
+            "pano_yerlestirme": "yapildi"
+          },
+          "rozet": {
+            "tur": "dinleme-yumagi-saricisi",
+            "gerekce": "Masalın konusunu ve ana duygusunu yumaklara ayırma sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Yumaklar için başlangıç cümleleri verilir; pano yerleştirmesi öğretmenle yapılır.",
+            "zenginlestirme": "Öğrenci iki masalın ana duygu yumaklarını karşılaştırıp ortak duyguyu söyler."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Yumağını doldur, panoya as — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-82-TD34",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.D.3.4",
+          "kazanim_metni": "Dinleme/izleme sürecine etki eden durumları gözden geçirebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Masal dinlemek için köşesini düzenleme kartıyla kurma ve düzenlemenin dinlemesine etkisini açıklama (T7: Millî Kültürümüz teması · uniteId:396)",
+          "etkinlik_adi": "Dinleme Köşesi Düzenleme Planı: Köşemi Kurarım, Etkisini Açıklarım",
+          "amac": "Öğrencinin masal dinleyeceği köşeyi düzenleme kartıyla kurması ve ortam düzenlemesinin dinleme sürecindeki duygu, düşünce ve davranışlarına etkisini açıklaması amaçlanır.",
+          "strateji": {
+            "deger": "dinleme-kosesi-duzenleme-plani",
+            "ikincil": "duzenleme-etkisi-aciklamasi"
+          },
+          "destekleyiciler": [
+            "kose-duzenleme-karti",
+            "yerlesim-etiketleri",
+            "masal-dinleme-metni"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Dinleme Köşesi Düzenleme Planı Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.D.3.4 · Tema 7 · uniteId:396)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:396, kod:T.D.3.4",
+            "tymm_cerceve": "Dinleme/İzleme becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Düzenleme kartı ele alınır: Köşe kurmanın dinlemeye etkisi örneklerle konuşulur.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Köşende hangi adımlarla düzenleme yapacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Köşe düzenleme kartıyla kurulur; masal dinlenir; etki sorusu yanıtlanır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Köşeni kurup kurmadığını ve etki açıklamanı yazıp yazmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Etki açıklamaları sınıfta paylaşılır; ortak düzenleme önerileri konuşulur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Bir sonraki dinleme için köşende değiştireceğin bir şeyi belirleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Köşeni düzenlemenin dinleme sırasındaki duygu ve düşüncelerini nasıl etkilediğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Masal dinlemeden önce dinleme köşenizi düzenleyeceksiniz. Düzenleme kartınızı alınız: Oturacağın yeri seç, gürültü kaynağını belirle, dinleme alanını işaretle. Köşeni kurdurduktan sonra masalı dinle. Sonra etki sorusunu yanıtla: 'Köşemi düzenlemek dinlememi nasıl etkiledi?'",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Dinleme Köşesi Düzenleme Planı Şeması"
+          },
+          "ogrenci_kayit": {
+            "kose_duzenleme": "kartla-yapildi",
+            "etki_aciklamasi": "yazildi"
+          },
+          "rozet": {
+            "tur": "dinleme-kosesi-duzenleyicisi",
+            "gerekce": "Dinleme köşesini düzenleme kartıyla kurma ve etkisini açıklama sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Düzenleme kartı üç adımla sınırlandırılır; etki açıklaması sözlü yapılabilir.",
+            "zenginlestirme": "Öğrenci iki farklı köşe düzeni dener ve hangisinin dinlemesine daha çok yardım ettiğini gerekçesiyle söyler."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Köşeni kur, masalını dinle — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-83-TD35",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.D.3.5",
+          "kazanim_metni": "Dinleme/izleme sürecini değerlendirebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "İki dinleme stratejisini deneyip karşılaştırma kartıyla değerlendirme ve işe yarayanı gerekçesiyle açıklama (T7: Millî Kültürümüz teması · uniteId:396)",
+          "etkinlik_adi": "Strateji Karşılaştırma Kartı: İkisini Denerim, İşe Yarayanı Seçerim",
+          "amac": "Öğrencinin masal dinlerken iki farklı stratejiyi denemesi, karşılaştırma kartıyla değerlendirmesi ve tercih ettiği stratejiyi gerekçesiyle açıklaması amaçlanır.",
+          "strateji": {
+            "deger": "strateji-karsilastirma-karti",
+            "ikincil": "tercih-gerekcesi-yazma"
+          },
+          "destekleyiciler": [
+            "strateji-karsilastirma-karti",
+            "masal-dinleme-metni",
+            "tercih-etiketi"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Strateji Karşılaştırma Kartı Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.D.3.5 · Tema 7 · uniteId:396)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:396, kod:T.D.3.5",
+            "tymm_cerceve": "Dinleme/İzleme becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Karşılaştırma kartı ele alınır: İki stratejiyi denemenin tercihi nasıl kolaylaştırdığı gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: İki dinlemede hangi stratejileri kullanacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Masal iki kez dinlenir; karşılaştırma kartı doldurulur; tercih etiketi yapıştırılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Karşılaştırma kartını doldurup doldurmadığını ve gerekçeni söyleyip söylemediğini kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Tercihler sınıfta paylaşılır; aynı stratejiyi seçenlerin gerekçeleri konuşulur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Bir sonraki dinlemede denemek istediğin üçüncü stratejiyi seçme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Tercih ettiğin stratejiyi gerekçesiyle açıklamanın dinleme alışkanlığını nasıl geliştirdiğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Bir masalı iki kez dinleyeceksiniz. İlk dinlemede 'gözümde canlandırarak', ikinci dinlemede 'not alarak' stratejisini kullanınız. Karşılaştırma kartınıza yazınız: Hangi strateji masalı anlamamı daha çok kolaylaştırdı? Tercih etiketinizi seçtiğiniz stratejinin yanına yapıştırınız ve gerekçenizi söyleyiniz.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Strateji Karşılaştırma Kartı Şeması"
+          },
+          "ogrenci_kayit": {
+            "iki_strateji_deneme": "yapildi",
+            "karsilastirma_karti": "dolduruldu",
+            "tercih_gerekcesi": "aciklandi"
+          },
+          "rozet": {
+            "tur": "strateji-karsilastirma-secicisi",
+            "gerekce": "İki dinleme stratejisini karşılaştırma kartıyla değerlendirme ve tercihini açıklama sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Karşılaştırma kartı iki satırla sınırlandırılır; stratejiler öğretmenle birlikte denenir.",
+            "zenginlestirme": "Öğrenci bir arkadaşının tercih gerekçesini dinler ve kendi tercihiyle ortak yönünü söyler."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "İki stratejiyi dene, tercihini gerekçelendir — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-84-TK31",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.K.3.1",
+          "kazanim_metni": "Konuşmalarını yönetebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Millî kültür konusunu anlatırken üslup yelpazesinden uygun kanadı seçme ve konuşma kurallarına uyma (T7: Millî Kültürümüz teması · uniteId:396)",
+          "etkinlik_adi": "Üslup Yelpazesi: Konuma Uygun Kanadı Açarım",
+          "amac": "Öğrencinin millî kültür konulu konuşmasında konunun özelliğine göre üslubunu yelpaze kanatları arasından seçmesi ve konuşma kurallarına uygun iletişimini sürdürmesi amaçlanır.",
+          "strateji": {
+            "deger": "uslup-yelpazesi-kanat-secimi",
+            "ikincil": "kural-kontrol-saplamasi"
+          },
+          "destekleyiciler": [
+            "uslup-yelpazesi-karti",
+            "kultur-konusma-kartlari",
+            "kural-saplamasi"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Üslup Yelpazesi Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.K.3.1 · Tema 7 · uniteId:396)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:396, kod:T.K.3.1",
+            "tymm_cerceve": "Konuşma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Üslup yelpazesi ele alınır: Konunun özelliğinin üslubu nasıl belirlediği örneklerle gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Hangi kültür konusunu seçeceğini ve hangi kanadı açacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Kanadını seç; saplamadaki kuralları yokla; millî kültür konunu anlat.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Kanat seçimi yapıp yapmadığını ve kuralları konuşurken uygulayıp uygulamadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Konuşmalar dinlenir; sınıf, konuya en uygun kanadı gerekçesiyle seçer.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Yelpazene yeni bir kanat öner ve bu kanadın hangi konulara uyacağını belirleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Üslubunu konuya göre seçmenin konuşmanı nasıl biçimlendirdiğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Millî kültürümüzden bir konuyu sınıfa anlatacaksınız. Konuşmadan önce üslup yelpazenizi açınız: 'Ağırbaşlı', 'Coşkulu' ya da 'Açıklayıcı' kanatlarından konunuza uygun olanı seçiniz. Yelpazenin saplamasındaki kuralları yoklayınız: ses düzeyi, nezaket sözleri, göz teması. Kanadınız hazırsa konuşunuz.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Üslup Yelpazesi Şeması"
+          },
+          "ogrenci_kayit": {
+            "uslup_secimi": "yelpazeden-yapildi",
+            "kural_kontrolu": "saplamayla-yoklandi",
+            "iletisim": "kurallara-uygun-surdu"
+          },
+          "rozet": {
+            "tur": "uslup-yelpazesi-konusmacisi",
+            "gerekce": "Konuşması için üslup yelpazesinden kanat seçme ve kurallara uygun konuşma sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Yelpaze kanatları ikiye indirilir; konuşma iki cümleyle sınırlandırılır.",
+            "zenginlestirme": "Öğrenci aynı konuyu iki farklı kanatla anlatır ve üslup farkını açıklar."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Yelpazeni aç, kanadını seç — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-85-TK32",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.K.3.2",
+          "kazanim_metni": "Konuşmalarında içerik oluşturabilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Kültür varlığı görselinden üç bölümlü çerçeveyle konuşma içeriği kurma, katılmadığı görüşlere neden ve öneri söyleme (T7: Millî Kültürümüz teması · uniteId:396)",
+          "etkinlik_adi": "Görsel Çerçeveli Konuşma: Görürüm, Düşünürüm, Öneririm",
+          "amac": "Öğrencinin kültür varlığı görselinden hareketle üç bölümlü çerçevesine uygun konuşması, katılmadığı görüşlerin nedenlerini ve önerilerini söylemesi amaçlanır.",
+          "strateji": {
+            "deger": "gorsel-cerceveli-icerik-kurma",
+            "ikincil": "katilmama-nedeni-ve-onerisi"
+          },
+          "destekleyiciler": [
+            "gorsel-konusma-cercevesi",
+            "kultur-varligi-gorselleri",
+            "gorus-kartlari"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Görsel Çerçeveli Konuşma Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.K.3.2 · Tema 7 · uniteId:396)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:396, kod:T.K.3.2",
+            "tymm_cerceve": "Konuşma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Görsel çerçevesi ele alınır: Gördüğüm, düşündüğüm, önerdiğim bölümlerinin konuşmayı nasıl taşıdığı gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Hangi görseli seçeceğini ve çerçevenin bölümlerine ne yazacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Görsel seçilir; çerçeve doldurulur; çerçeveye uygun konuşulur; farklı görüşlere neden ve öneri söylenir.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Çerçevenin üç bölümünü de doldurup doldurmadığını ve konuşmanda çerçeveye uyup uymadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Konuşmalar dinlenir; katılmama nedenlerinin ve önerilerin nasıl söylendiği konuşulur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Çerçevenin 'Önerdiğim' bölümüne sınıf için bir kültür etkinliği önerisi ekleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Görselden çerçeve kurmanın ve görüşlere öneriyle karşılık vermenin konuşmanı nasıl zenginleştirdiğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Bir kültür varlığının görselini seçiniz: bir tarihî köprü, bir halk oyunu ya da bir el sanatı. Konuşma çerçevenizin üç bölümünü doldurunuz: 'Gördüğüm', 'Düşündüğüm', 'Önerdiğim'. Çerçevenize uygun konuşunuz. Bir arkadaşınızın görüşüne katılmıyorsanız nedeninizi ve önerinizi nazikçe söyleyiniz.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Görsel Çerçeveli Konuşma Şeması"
+          },
+          "ogrenci_kayit": {
+            "cerceve_bolumleri": "dolduruldu",
+            "cerceveye_uygun_konusma": "yapildi",
+            "katilmama_nedeni": "soylendi",
+            "oneri_sunma": "yapildi"
+          },
+          "rozet": {
+            "tur": "gorsel-cerceve-konusmacisi",
+            "gerekce": "Görselden üç bölümlü çerçeveyle içerik kurma ve görüşlere neden-öneri söyleme sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Çerçevenin bir bölümü hazır doldurulmuş verilir; katılmama cümlesi kalıp olarak sağlanır.",
+            "zenginlestirme": "Öğrenci iki farklı görsel için iki çerçeve doldurur ve konuşmasında karşılaştırır."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Çerçeveni doldur, gördüğünü anlat — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-86-TK33",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.K.3.3",
+          "kazanim_metni": "Konuşma kurallarını uygulayabilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Türkü dizesini yankı konuşmayla uygun ses ve vurguyla yineleme, kendi cümlesinde sözcükleri yerinde seçme (T7: Millî Kültürümüz teması · uniteId:396)",
+          "etkinlik_adi": "Yankı Konuşma: Dizeyi Dinlerim, Sesim ve Vurgumla Yinelerim",
+          "amac": "Öğrencinin vatan sevgisi konulu bir türkü dizesini dinledikten sonra uygun ses düzeyi ve vurguyla yinelemesi, kendi cümlesinde sözcükleri yerinde ve anlamına uygun seçmesi amaçlanır.",
+          "strateji": {
+            "deger": "yanki-konusma-tekrari",
+            "ikincil": "dize-yankisi-vurgu-calismasi"
+          },
+          "destekleyiciler": [
+            "yanki-konusma-karti",
+            "turku-dizesi-kartlari",
+            "soz-secim-listesi"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Yankı Konuşma Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.K.3.3 · Tema 7 · uniteId:396)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:396, kod:T.K.3.3",
+            "tymm_cerceve": "Konuşma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Yankı konuşma ele alınır: Sesin ve vurgunun anlamı nasıl taşıdığı örneklerle gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Hangi dizeyi yineleyeceğini ve kendi cümlende hangi sözcükleri seçeceğini belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Dize dinlenir, yankı konuşmayla yinelenir; söz listesinden seçilen sözcüklerle kendi cümlesi söylenir.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Yankı tekrarında sesini ayarlayıp ayarlamadığını ve vurgu yapıp yapmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Aynı dize farklı vurgularla yinelenir; sınıf, anlamı en iyi taşıyan vurguyu seçer.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Kendi cümlene türküdeki bir sözü ekleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Sesini ayarlamanın, vurgu yapmanın ve sözcükleri yerinde seçmenin anlatımını nasıl etkilediğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Sınıfınız vatan sevgisi üzerine bir türkü dizesi dinleyecek. Öğretmen dizeyi okuyunca siz yankı gibi yineleyeceksiniz: Ses düzeyinizi sınıfa göre ayarlayınız, önemli sözlerde vurgu yapınız. Sonra yankı kartındaki söz listesinden sözcükleri yerinde seçerek kendi cümlenizi söyleyiniz.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Yankı Konuşma Şeması"
+          },
+          "ogrenci_kayit": {
+            "yanki_tekrari": "ses-ve-vurguyla-yapildi",
+            "ses_duzeyi": "ayarlandi",
+            "vurgu": "uygulandi",
+            "soz_secimi": "yerinde-yapildi"
+          },
+          "rozet": {
+            "tur": "yanki-konusma-okuyucusu",
+            "gerekce": "Türkü dizesini yankı konuşmayla ses ve vurgusuna dikkat ederek yineleme sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Dize iki sözcüklük bölümlerle yinelenir; söz listesi iki seçenekli verilir.",
+            "zenginlestirme": "Öğrenci yankı konuşmayı bir arkadaşıyla karşılıklı yapar ve vurgu farklarını konuşur."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Dizeyi dinle, yankınla yinele — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-87-TO31",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.O.3.1",
+          "kazanim_metni": "Okuma sürecini yönetebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Okuma menüsünden metnini ilgi ve amacına göre seçme, stratejisini işaretleme, başlığı ve görselleri inceleme, noktalama duraklarına dikkat etme (T7: Millî Kültürümüz teması · uniteId:396)",
+          "etkinlik_adi": "Okuma Menüsü: Metnimi Seçerim, Stratejimi İşaretlerim",
+          "amac": "Öğrencinin okuyacağı metni menüden ilgi alanına ve amacına göre seçmesi, okuma stratejisine karar vermesi, başlığı ve görselleri incelemesi ve noktalama işaretlerine dikkat ederek okuması amaçlanır.",
+          "strateji": {
+            "deger": "okuma-menusu-secimi",
+            "ikincil": "strateji-isaretleme-ve-durak-dikkati"
+          },
+          "destekleyiciler": [
+            "okuma-menusu-karti",
+            "kultur-metinleri-kosesi",
+            "strateji-isaret-pulu"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Okuma Menüsü Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.O.3.1 · Tema 7 · uniteId:396)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:396, kod:T.O.3.1",
+            "tymm_cerceve": "Okuma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Okuma menüsü ele alınır: Metin seçmenin ve strateji işaretlemenin okumayı nasıl hazırladığı gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Menüden hangi metni seçeceğini ve hangi strateji pulunu yapıştıracağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Metin seçilir; strateji pulu yapıştırılır; başlık ve görseller incelenir; metin duraklara dikkat edilerek okunur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Menü seçimini yapıp yapmadığını ve strateji pulunu yapıştırıp yapıştırmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Farklı metin seçenler bir araya gelir; seçim gerekçeleri konuşulur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Okuduğun metin için menüye bir not ekleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Metnini ilgine göre seçmenin ve stratejini belirlemenin okumanı nasıl yönlendirdiğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Kültür köşesinde üç metin var: bayrak şiiri, tarihî köprü yazısı, halk oyunu öyküsü. Okuma menünüzden ilginize ve amacınıza uygun metni seçiniz. Strateji pulunuzu yapıştırınız: 'Sessiz okuma' ya da 'Sesli okuma'. Başlığa ve görsellere bakınız. Okurken noktalama duraklarına dikkat ediniz.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Okuma Menüsü Şeması"
+          },
+          "ogrenci_kayit": {
+            "metin_secimi": "menuden-yapildi",
+            "strateji_secimi": "pulla-isaretlendi",
+            "baslik_gorsel_inceleme": "yapildi",
+            "noktalama_dikkati": "saglandi"
+          },
+          "rozet": {
+            "tur": "okuma-menusu-secicisi",
+            "gerekce": "Menüden metnini seçme, stratejisini işaretleme ve duraklara dikkat ederek okuma sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Menü iki metne indirilir; strateji pulu öğretmenle birlikte yapıştırılır.",
+            "zenginlestirme": "Öğrenci menüye kendi önerdiği metni ekler ve seçme gerekçesini yazar."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Menüden seç, stratejini işaretle — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-88-TO32",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.O.3.2",
+          "kazanim_metni": "Okuduklarıyla ilgili anlam oluşturabilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Okuduğu kültür metninin iletilerine katılma köşelerinde konumlanma, nedenini söyleme ve öneri sunma (T7: Millî Kültürümüz teması · uniteId:396)",
+          "etkinlik_adi": "Katılma Köşeleri: Köşemi Seçerim, Nedenimi Söylerim",
+          "amac": "Öğrencinin okuduğu kültür metninin başlığından ve görsellerinden görüş oluşturması, iletilerine katılıp katılmadığını köşelerde konumlanarak nedenleriyle ifade etmesi ve içeriğe öneriler sunması amaçlanır.",
+          "strateji": {
+            "deger": "katilma-koseleri-konumlanma",
+            "ikincil": "neden-ve-oneri-soyleme"
+          },
+          "destekleyiciler": [
+            "katilma-koseleri-etiketleri",
+            "kultur-metni-kupuru",
+            "gorus-kartlari"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Katılma Köşeleri Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.O.3.2 · Tema 7 · uniteId:396)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:396, kod:T.O.3.2",
+            "tymm_cerceve": "Okuma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Katılma köşeleri ele alınır: Bir iletiye katılmanın ya da katılmamanın köşede konumlanarak gösterileceği açıklanır.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Metni okurken hangi iletilere dikkat edeceğini belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Metin okunur; başlıktan görüş oluşturulur; iletiler için köşelere konumlanılır, nedenler söylenir.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Her iletti için köşene gidip gitmediğini ve nedenini söyleyip söylemediğini kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Köşeler yeniden kurulur; bu kez öğrenciler önerilerini de söyler.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Metnin yazarına bir öneri cümlesi yazma planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Köşelerde konumlanarak görüş belirtmenin okuduğunu değerlendirmeyi nasıl desteklediğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Kültür konulu bir metin okuyacaksınız. Okumadan önce başlığa ve görsellere bakıp görüşünüzü söyleyiniz. Okuma bitince öğretmen iletileri okuyacak: Her ileti için 'Katılıyorum' ya da 'Katılmıyorum' köşesine gidiniz. Köşede nedeninizi söyleyiniz ve metne bir öneri sununuz.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Katılma Köşeleri Şeması"
+          },
+          "ogrenci_kayit": {
+            "gorus_olusturma": "basliktan-yapildi",
+            "kose_konumlanma": "her-iletide-yapildi",
+            "neden_soylama": "gerceklestirildi",
+            "oneri_sunma": "yapildi"
+          },
+          "rozet": {
+            "tur": "katilma-koseleri-konusmacisi",
+            "gerekce": "Metnin iletilerine köşelerde konumlanarak katılma durumunu nedenleriyle ifade etme sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "İleti sayısı ikiye indirilir; köşe seçimi için gerekçe kalıbı verilir.",
+            "zenginlestirme": "Öğrenci karşı köşedeki bir arkadaşının nedenini dinler ve kendi gerekçesiyle karşılaştırır."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Köşeni seç, nedenini söyle — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-89-TO33",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.O.3.3",
+          "kazanim_metni": "Okuduklarını çözümleyebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Okuduğu kültür metninin karakterlerini, olaylarını ve duygularını tezgâh iplikleri gibi dokuma, konusunu ve ana fikrini belirleme (T7: Millî Kültürümüz teması · uniteId:396)",
+          "etkinlik_adi": "Metin Dokuma Tezgâhı: İplikleri Dokurum, Konuyu Bulurum",
+          "amac": "Öğrencinin okuduğu metindeki karakterleri, olayları ve duyguları açıklaması, tezgâh iplikleri olarak dokuması, metnin konusunu ve ana fikrini bulması amaçlanır.",
+          "strateji": {
+            "deger": "metin-dokuma-tezgahi",
+            "ikincil": "iplik-karti-dokuma"
+          },
+          "destekleyiciler": [
+            "dokuma-tezgahi-posteri",
+            "kultur-metni-kupuru",
+            "iplik-kartlari"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Metin Dokuma Tezgâhı Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.O.3.3 · Tema 7 · uniteId:396)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:396, kod:T.O.3.3",
+            "tymm_cerceve": "Okuma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Dokuma tezgâhı ele alınır: Metnin parçalarının iplik gibi dokunarak bütüne ulaşılacağı gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Metni okurken hangi ayrıntıları hangi iplik kartına yazacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Metin okunur; iplik kartları doldurulur; tezgâhta dokunur; tezgâhın altına konu ve ana fikir yazılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Üç sıranın da dokunup dokunmadığını ve tezgâh altını doldurup doldurmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Tezgâhlar sergilenir; ipliklerin metnin konusuna katkısı konuşulur.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Tezgâhına metnin mesajını taşıyan yeni bir iplik ekleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Metni ipliklere ayırıp dokumanın çözümlemeyi nasıl kolaylaştırdığını açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Kültür konulu bir metin okuyacaksınız. Metindeki kişileri, olayları ve duyguları iplik kartlarına yazınız. Kartları tezgâh posterinde dokuyunuz: Birinci sıraya karakterler, ikinci sıraya olaylar, üçüncü sıraya duygular. Dokuma bitince tezgâhın altına metnin konusunu ve ana fikrini yazınız.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Metin Dokuma Tezgâhı Şeması"
+          },
+          "ogrenci_kayit": {
+            "karakter_iplikleri": "dokundu",
+            "olay_iplikleri": "dokundu",
+            "duygu_iplikleri": "dokundu",
+            "konu_ana_fikir": "tezgah-altina-yazildi"
+          },
+          "rozet": {
+            "tur": "metin-tezgahi-dokuyucusu",
+            "gerekce": "Metnin karakterlerini, olaylarını ve duygularını tezgâhta dokuma, konuyu ve ana fikri belirleme sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "İplik kartları ikişeyle sınırlandırılır; tezgâh altı için başlangıç cümlesi verilir.",
+            "zenginlestirme": "Öğrenci iki metnin tezgâhlarını karşılaştırıp ortak iplikleri söyler."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "İpliğini yaz, tezgâhta doku — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-90-TY31",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.Y.3.1",
+          "kazanim_metni": "Yazılı anlatım becerilerini yönetebilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Bir kültür varlığı hakkında kartpostal üzerine hazırlıksız yazma ve yazısını kartpostal ipine asma (T7: Millî Kültürümüz teması · uniteId:396)",
+          "etkinlik_adi": "Kültür Kartpostalı: Beş Dakikada Yazarım, İpe Asarım",
+          "amac": "Öğrencinin verilen yazma görevini kartpostal üzerinde hazırlıksız olarak yazması ve yazısını sınıfın kartpostal ipinde paylaşması amaçlanır.",
+          "strateji": {
+            "deger": "kartpostal-hazirliksiz-yazisi",
+            "ikincil": "kartpostal-ipi-paylasimi"
+          },
+          "destekleyiciler": [
+            "kartpostal-sablonu",
+            "kulturel-varlik-gorselleri",
+            "kartpostal-ipi"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Kültür Kartpostalı Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.Y.3.1 · Tema 7 · uniteId:396)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:396, kod:T.Y.3.1",
+            "tymm_cerceve": "Yazma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Kartpostal ipi ele alınır: Hazırlıksız yazının kartpostal üzerinde nasıl paylaşılacağı gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Hangi kültür varlığını seçeceğini ve kartpostalına ne yazacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Kültür varlığı seçilir; beş dakikada kartpostal yazılır; ipe asılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Yazını sürede bitirip bitirmediğini ve kartpostalını ipe asıp asmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: İp gezilir; her öğrenci bir kartpostal okur ve beğendiği cümleyi söyler.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Kartpostalına bir de selam cümlesi ekleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Hazırlıksız yazmanın düşüncelerini kartpostala aktarmayı nasıl kolaylaştırdığını açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Sevdiğin bir kültür varlığını düşün: bir halk oyunu, bir el sanatı ya da bir tarihî eser. Beş dakika içinde, hazırlık yapmadan, kartpostalına yaz. Yazında bu varlığı neden sevdiğini anlat. Yazın bitince kartpostalını sınıfın kartpostal ipine as.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Kültür Kartpostalı Şeması"
+          },
+          "ogrenci_kayit": {
+            "hazirliksiz_yazma": "kartpostala-yazildi",
+            "kulturel_varlik_secimi": "yapildi",
+            "ipe_asma": "gerceklestirildi"
+          },
+          "rozet": {
+            "tur": "kultur-kartpostali-yazari",
+            "gerekce": "Kültür varlığı hakkında kartpostala hazırlıksız yazma ve ip üzerinde paylaşma sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Süre altı dakikaya çıkarılır; kartpostal üç cümleyle sınırlandırılır.",
+            "zenginlestirme": "Öğrenci ipten bir arkadaşının kartpostalını seçer ve ona bir yanıt cümlesi yazar."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Kartpostalını yaz, ipe as — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-91-TY32",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.Y.3.2",
+          "kazanim_metni": "Yazılarında içerik oluşturabilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Kültür varlığı hakkında görsellerle desteklenmiş öyküleyici yazı yazma ve hedef kitleye sunma (T7: Millî Kültürümüz teması · uniteId:396)",
+          "etkinlik_adi": "Görselli Öykü Şeridi: Yazarım, Çizerim, Sunarım",
+          "amac": "Öğrencinin bir kültür varlığı hakkında öyküleyici türde yazı yazması, yazısını görsellerle desteklemesi ve hedef kitleye sunması amaçlanır.",
+          "strateji": {
+            "deger": "gorsel-serit-oykuleyici-yazma",
+            "ikincil": "hedef-kitleye-sunum"
+          },
+          "destekleyiciler": [
+            "oyku-seridi-kagidi",
+            "kultur-varligi-gorselleri",
+            "hedef-kitle-karti"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Görselli Öykü Şeridi Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.Y.3.2 · Tema 7 · uniteId:396)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:396, kod:T.Y.3.2",
+            "tymm_cerceve": "Yazma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Öykü şeridi ele alınır: Karelerin öyküyü nasıl taşıdığı ve görsellerin yazıyı nasıl desteklediği gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Hangi kültür varlığını seçeceğini ve karelerine ne yazacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Öykü şeride yazılır; görseller yapıştırılır; hedef kitle seçilir; sunum yapılır.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Üç kareyi de doldurup doldurmadığını ve sunumunu hedef kitleye göre yapıp yapmadığını kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Şeritler sınıfta gezilir; her öğrenci bir arkadaşının öyküsünü bir cümleyle özetler.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Şeridine bir dördüncü kare ekleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Görsellerle desteklemenin ve hedef kitleyi düşünmenin yazını nasıl biçimlendirdiğini açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Bir kültür varlığı hakkında kısa bir öykü yazacaksınız: 'Dedemin anlattığı köprü' gibi. Öykü şeridinizin üç karesini doldurunuz. Karelerin yanına görseller yapıştırınız. Hedef kitle kartınızı seçiniz: Yazınızı birinci sınıflara mı, velilere mi sunacaksınız? Şeridinizi hedef kitlenize uygun biçimde sununuz.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Görselli Öykü Şeridi Şeması"
+          },
+          "ogrenci_kayit": {
+            "oykuleyici_yazi": "seride-yazildi",
+            "gorsel_destek": "karelere-yapistirildi",
+            "hedef_kitle_secimi": "kartla-yapildi",
+            "sunum": "gerceklestirildi"
+          },
+          "rozet": {
+            "tur": "gorsel-serit-anlaticisi",
+            "gerekce": "Kültür varlığı hakkında görsellerle desteklenmiş öykü yazma ve hedef kitleye sunma sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Şerit iki kareyle sınırlandırılır; hedef kitle sabit tutulur.",
+            "zenginlestirme": "Öğrenci aynı şeridi iki farklı hedef kitle için sunar ve sunum farkını açıklar."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Şeridini doldur, hedef kitleye sun — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        },
+        {
+          "format": "vmpak-icerik/0.2",
+          "nesne_id": "M1-TR-G3-92-TY33",
+          "tur": "modul-etkinligi",
+          "kazanim_kodu": "T.Y.3.3",
+          "kazanim_metni": "Yazma kurallarını uygulayabilme [PM-PARAFRAZ — VAMOLA özgün anlatımı; resmî MEB metni doğrudan ürüne girmez (K-83/K-141)]",
+          "konu": "Kültür varlığı için müze tabelası yazarken sözcükleri yerinde seçme ve noktalama işaretlerini kuralına uygun kullanma (T7: Millî Kültürümüz teması · uniteId:396)",
+          "etkinlik_adi": "Müze Tabelası Yazıyorum: Sözcüğümü Seçerim, Noktalamamı Koyarım",
+          "amac": "Öğrencinin bir kültür varlığı için tabela yazısı yazarken sözcükleri yerinde ve anlamına uygun seçmesi, noktalama işaretlerini kuralına uygun kullanması amaçlanır.",
+          "strateji": {
+            "deger": "muze-tabelasi-kural-yazisi",
+            "ikincil": "tabela-noktalama-denetimi"
+          },
+          "destekleyiciler": [
+            "muze-tabelasi-sablonu",
+            "kultur-varligi-kartlari",
+            "noktalama-isaret-seridi"
+          ],
+          "d9_varyant": "d",
+          "d9_sema": "D9-doc §8.2 · Müze Tabelası Şeması",
+          "kaynak_surumu": "TYMM-2024 ilkokul-3 Türkçe (T.Y.3.3 · Tema 7 · uniteId:396)",
+          "kaynaklar": {
+            "k500_kaynak": "dersId:1, sinif:3, uniteId:396, kod:T.Y.3.3",
+            "tymm_cerceve": "Yazma becerisi"
+          },
+          "surec_adimlari": [
+            {
+              "no": 1,
+              "adim": "Müze tabelası ele alınır: Tabelanın kısa, açık ve kurallı yazılması gerektiği örneklerle gösterilir.",
+              "p12": null,
+              "resmi_asama": "birlikte-ogrenelim"
+            },
+            {
+              "no": 2,
+              "adim": "Plan: Hangi kültür varlığını seçeceğini ve tabelana hangi cümleleri yazacağını belirleme planı yapalım.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 3,
+              "adim": "Uygulama: Kart seçilir; tabela yazılır; sözcükler ve noktalama serideki kurallara göre denetlenir.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 4,
+              "adim": "İzleme: Tabelandaki sözcükleri yerinde seçip seçmediğini ve noktalamayı denetleyip denetlemediğini kontrol et.",
+              "p12": "izleme",
+              "resmi_asama": null
+            },
+            {
+              "no": 5,
+              "adim": "Pekiştirme: Tabelalar sınıf müzesine asılır; en açık tabela gerekçesiyle seçilir.",
+              "p12": null,
+              "resmi_asama": null
+            },
+            {
+              "no": 6,
+              "adim": "Plan: Tabelana bir alt bilgi cümlesi ekleme planı kur.",
+              "p12": "plan",
+              "resmi_asama": null
+            },
+            {
+              "no": 7,
+              "adim": "Analiz ve Değerlendirme: Sözcükleri yerinde seçmenin ve noktalama işaretlerine dikkat etmenin tabelanı nasıl anlaşılır kıldığını açıkla.",
+              "p12": "analiz",
+              "resmi_asama": "uygulayalim"
+            }
+          ],
+          "ornek_problem": {
+            "metin": "Sınıf müzeniz için bir tabela yazacaksınız. Bir kültür varlığı kartı seçiniz: 'Tarihî Köprü' ya da 'Bayrak Köşesi'. Tabela şablonunu doldurunuz: Sözcüklerinizi yerinde seçiniz, kısa ve açık cümleler kurunuz. Noktalama işaretlerini serideki kurallara göre koyunuz.",
+            "not": "VAMOLA özgün içeriği — K-02 uyumlu, Müze Tabelası Şeması"
+          },
+          "ogrenci_kayit": {
+            "tabela_yazma": "sablonla-yapildi",
+            "sozcuk_secimi": "yerinde-yapildi",
+            "noktalama_uygulamasi": "seritle-denetlendi"
+          },
+          "rozet": {
+            "tur": "muze-tabelasi-yazari",
+            "gerekce": "Kültür varlığı için tabela yazarken sözcükleri yerinde seçme ve noktalama işaretlerini uygulama sürecini tamamladı."
+          },
+          "farklilastirma": {
+            "destek": "Tabela iki cümleyle sınırlandırılır; noktalama serisi üç işarete indirilir.",
+            "zenginlestirme": "Öğrenci yazdığı tabelayı bir arkadaşının tabelasıyla karşılaştırır ve ortak kuralları söyler."
+          },
+          "veri": {
+            "cocuk_verisi_toplanmaz": true,
+            "not": "K-05 — kağıt-kalem/ders-içi; dijital-katman yetişkin-arayüzü"
+          },
+          "dil_denetimi": {
+            "damgalamayan_dil": true,
+            "ornek_dil": "Tabelanı yaz, noktalamayı koy — K-02 uyumlu, cesaretlendirici pedagojik rehberlik",
+            "k02_uyumlu": true
+          }
+        }
+      ]
+    }
+  ]
+}
